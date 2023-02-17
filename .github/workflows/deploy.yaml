@@ -1,45 +1,45 @@
-name: 'Deploy to GH Pages'
+# name: 'Deploy to GH Pages'
 
-on:
-  push:
-    branches:
-      - main
+# on:
+#   push:
+#     branches:
+#       - main
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout
-        uses: actions/checkout@v3
-      - name: install dependencies
-        run: npm install
-      - name: build
-        run: npm run build
-      - name: upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          name: build-artifact
-          path: ./dist
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: checkout
+#         uses: actions/checkout@v3
+#       - name: install dependencies
+#         run: npm install
+#       - name: build
+#         run: npm run build
+#     - name: upload artifact
+#       uses: actions/upload-pages-artifact@v1
+#       with:
+#         name: build-artifact
+#         path: ./dist
 
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build
+# deploy:
+#   runs-on: ubuntu-latest
+#   needs: build
 
-    steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v2
-        with:
-          name: build-artifact
-          path: dist
+#   steps:
+#     - name: Download artifact
+#       uses: actions/download-artifact@v2
+#       with:
+#         name: build-artifact
+#         path: dist
 
-      - name: Deploy to GitHub Pages
-        run: |
-          cd dist
-          echo > .nojekyll
-          git config --global user.email "$GITHUB_ACTOR"
-          git config --global user.name "$GITHUB_ACTOR"
-          git init
-          git checkout -B main
-          git add -A
-          git commit -m 'deploy'
-          git push -f git@github.com:$GITHUB_REPOSITORY.git main:gh-pages
+#     - name: Deploy to GitHub Pages
+#       run: |
+#         cd dist
+#         echo > .nojekyll
+#         git config --global user.email "$GITHUB_ACTOR"
+#         git config --global user.name "$GITHUB_ACTOR"
+#         git init
+#         git checkout -B main
+#         git add -A
+#         git commit -m 'deploy'
+#         git push -f git@github.com:$GITHUB_REPOSITORY.git main:gh-pages
