@@ -37,7 +37,7 @@ jobs:
         with:
           name: build_artifact
       - name: check files
-        run: echo ls -R
+        run: ls -R
       # - name: Deploy to GH pages
       #   id: deployment
       #   uses: peaceiris/actions-gh-pages@v3
