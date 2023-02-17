@@ -32,8 +32,15 @@ jobs:
       url: ${{ steps.deployment.output.page_url }}
 
     steps:
-      - name: Deploy to GH pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+      - name: Download artifacts
+        uses: actions/download-artifact@v3
         with:
-          artifact_name: build_artifact
+          name: build_artifact
+      - name: check files
+        run: echo ls -R
+      # - name: Deploy to GH pages
+      #   id: deployment
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: .
