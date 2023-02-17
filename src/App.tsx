@@ -10,11 +10,10 @@ function App() {
   const [questions, setQuestions] = useState<HRQuestion[]>([])
   const [tags, setTags] = useState<string[]>([])
   const [selectedTags, setSelectedTags] = useState<string[]>([])
+  const url = ''
 
   useEffect(() => {
-    fetch(
-      'https://raw.githubusercontent.com/DrKabum/RH-3000-web/main/src/data/questions.json'
-    )
+    fetch(url)
       .then((response) => response.json())
       .then((questions: HRQuestion[]) => {
         const tagList: string[] = []
