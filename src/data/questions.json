@@ -1,4090 +1,4908 @@
 [
   {
+    "id": 1,
     "competency": "Ability to grow",
     "question": "What has been the most formative experience in your life that has defined the achiever/leader you are today?",
     "whatToLook": "Challenger Mindset"
   },
   {
+    "id": 2,
     "competency": "Ability to grow",
     "question": "Tell me about a time when you weren’t satisfied with the quality your work.  How did you handle it?",
     "whatToLook": ""
   },
   {
+    "id": 3,
     "competency": "Ability to grow",
     "question": "What changes have you tried to implement in your area of responsibility?  What have you done to get them under way?",
     "whatToLook": ""
   },
   {
+    "id": 4,
     "competency": "Ability to grow",
     "question": "What have you been told as being your areas of improvement in your last performance review? What have you done since then to improve?",
     "whatToLook": ""
   },
   {
+    "id": 5,
     "competency": "Ability to grow",
     "question": "Tell me about a time when you needed help in your previous job. ",
     "whatToLook": ""
   },
   {
+    "id": 6,
     "competency": "Ability to grow",
     "question": "Tell me about a time that you realized you made a mistake? How did you correct it?",
     "whatToLook": ""
   },
   {
+    "id": 7,
     "competency": "Ability to scale",
     "question": "What is the most challenging issue of scale that you've had to address in your career?",
     "whatToLook": "Listen for wide-views, big picture thinking and talent/capabilities mindset. Probe into people aspect, change management, how did leader show empathy/EQ.How did this leader develop him/herself and others to respond to need or grow ahead of forecasted needs.   => Hire and Develop, build pipeline"
   },
   {
+    "id": 8,
     "competency": "Ability to scale",
     "question": "What is an example of a time you had an opportunity to extend a local solution, process, etc. to a global or company-wide reach? ",
     "whatToLook": "What need did the process address? Did it require adaptation, how did you know? What was the result and benefit? Anything you'd do differently next time?   => Vision, Senses Big Opportunity, Problem Solving"
   },
   {
+    "id": 9,
     "competency": "Action Orientation",
     "question": "Tell me about a time you got enjoyment out of working hard on something.",
     "whatToLook": ""
   },
   {
+    "id": 10,
     "competency": "Action Orientation",
     "question": "Give me an example of a time you had to work on a project/task that you were absolutely deading.",
     "whatToLook": ""
   },
   {
+    "id": 11,
     "competency": "Action orientation",
     "question": "Give me an example of something you've done in previous jobs that demonstrates your willingness to work hard.",
     "whatToLook": ""
   },
   {
+    "id": 12,
     "competency": "Action orientation",
     "question": "Describe a challenging project that you worked on.",
     "whatToLook": ""
   },
   {
+    "id": 13,
     "competency": "Action orientation",
     "question": "Give me an example of a time that you had to act with very little planning.",
     "whatToLook": ""
   },
   {
+    "id": 14,
     "competency": "Action orientation",
     "question": "Tell me about a time that you willingly took on more work even though you were already busy. How were you able to get everything done ?",
     "whatToLook": ""
   },
   {
+    "id": 15,
     "competency": "Action orientation",
     "question": "We all feel that we are unique in our accomplishments. Tell me an an accomplishment you have had that you feel is unique.",
     "whatToLook": ""
   },
   {
+    "id": 16,
     "competency": "Action orientation",
     "question": "Sometimes people will drag their feet in taking action on something, losing precious time. Tell me about a time you saw that other people in the organization were not acting quickly on something and took it upon yourself to lead the effort.",
     "whatToLook": ""
   },
   {
+    "id": 17,
     "competency": "Adaptability",
     "question": "Describe the most difficult career transition you've made to date (from one company to another or one job to the next in the same company).",
     "whatToLook": "What made it difficult?What steps did you take to adapt?What were the results and what would you do differently next time around? Watch for signs of self awareness, emotional intelligence, and intellectual curiousity.   => Dealing with Ambiguity"
   },
   {
+    "id": 18,
     "competency": "Adaptability",
     "question": "What types of bosses have been the most difficult for you? How did you manage the situation?",
     "whatToLook": ""
   },
   {
+    "id": 19,
     "competency": "Adaptability",
     "question": "Have you ever had to meet deadlines while being constantly interrupted? How did you cope?",
     "whatToLook": ""
   },
   {
+    "id": 20,
     "competency": "Adaptability",
     "question": "Tell me about a situation in which you had to adjust quickly to changes in the organization or your department? What did you do?",
     "whatToLook": ""
   },
   {
+    "id": 21,
     "competency": "Adaptability",
     "question": "How have you handled a new boss who changed your job description?",
     "whatToLook": ""
   },
   {
+    "id": 22,
     "competency": "Adaptability",
     "question": "Describe a time when you embraced a change being made, when you didn’t agree with the change.",
     "whatToLook": ""
   },
   {
+    "id": 23,
     "competency": "Adaptability",
     "question": "Tell me about the most difficult change you’ve had to implement in your career.",
     "whatToLook": ""
   },
   {
+    "id": 24,
     "competency": "Adaptability",
     "question": "What have you done when you’ve been given a project beneath your level of responsibility or experience?",
     "whatToLook": ""
   },
   {
+    "id": 25,
     "competency": "Adaptability",
     "question": "How have you handled a new employee who knew less than you, but was now your boss?",
     "whatToLook": ""
   },
   {
+    "id": 26,
     "competency": "Ambiguity (Ability to Deal With)",
     "question": "Tell me about a time you had to work with conflicting, delayed, or ambiguous information. What did you do to make the most of the situation ?",
     "whatToLook": ""
   },
   {
+    "id": 27,
     "competency": "Ambiguity (Ability to Deal With)",
     "question": "Tell me about a time when ambiguity was an obstacle to you getting a task or project completed. What was ambiguous? How long was it ambiguous?",
     "whatToLook": ""
   },
   {
+    "id": 28,
     "competency": "Ambiguity (Ability to Deal With)",
     "question": "Give me an example of a time when there was a decision to be made and procedures were not in place. What was the outcome?",
     "whatToLook": ""
   },
   {
+    "id": 29,
     "competency": "Ambiguity (Ability to Deal With)",
     "question": "We have all been asked on occasion to perform a task or accomplish a goal where the instructions we received were ambiguous. Tell me about a time when this happened to you and specifically what you did.",
     "whatToLook": ""
   },
   {
+    "id": 30,
     "competency": "Ambiguity (Ability to Deal With)",
     "question": "Give an example of a time when you could not participate in a discussion or could not finish a task because you did not have enough information.",
     "whatToLook": ""
   },
   {
+    "id": 31,
     "competency": "Ambiguity (Ability to Deal With)",
     "question": "Tell me about a time when you had to complete a project/task on a strict deadline with little or no direction.",
     "whatToLook": ""
   },
   {
+    "id": 32,
     "competency": "Analytical skills",
     "question": "Tell me about the most complex or difficult information you have had to analyze.",
     "whatToLook": ""
   },
   {
+    "id": 33,
     "competency": "Analytical skills",
     "question": "Tell me about the task or project that you were responsible for that best demonstrates your ability to analyze information.",
     "whatToLook": ""
   },
   {
+    "id": 34,
     "competency": "Analytical skills",
     "question": "Sometimes even though we study the data from all sides, we make errors in interpretation of the data. Tell me about a time that happened to you.",
     "whatToLook": ""
   },
   {
+    "id": 35,
     "competency": "Analytical skills",
     "question": "Give me an example of a time where you caught a discrepancy or inconsistency in the available information that might have caused significant problems if you had missed it.",
     "whatToLook": ""
   },
   {
+    "id": 36,
     "competency": "Analytical skills",
     "question": "Describe a time where your \"logical analysis\" was seen as illogical or flawed by someone else.",
     "whatToLook": ""
   },
   {
+    "id": 37,
     "competency": "Analytical skills",
     "question": "There are times where there is an incredible amount of data and information to be analyzed. Tell me about a time you faced this situation and exactly what you did to boil everything down to what was most important.",
     "whatToLook": ""
   },
   {
+    "id": 38,
     "competency": "Approachability",
     "question": "Tell me about a time when someone came to with a problem. What did you do? ",
     "whatToLook": ""
   },
   {
+    "id": 39,
     "competency": "Approachability",
     "question": "Give me an example of a difficult problem someone recently needed your help to solve.",
     "whatToLook": ""
   },
   {
+    "id": 40,
     "competency": "Approachability",
     "question": "Give me an example of a time an employee came to you and was anxious about something. How did you handle the situation? What was the result?",
     "whatToLook": ""
   },
   {
+    "id": 41,
     "competency": "Approachability",
     "question": "Describe a time when you went out of your way to put someone at ease.",
     "whatToLook": ""
   },
   {
+    "id": 42,
     "competency": "Approachability",
     "question": "Tell me about a time you were able to establish a rapport with a person that others reffered to as \"difficult\".",
     "whatToLook": ""
   },
   {
+    "id": 43,
     "competency": "Approachability",
     "question": "Give me an example of a time that you were provided with information that enabled you to stop a potential problem from occuring.",
     "whatToLook": ""
   },
   {
+    "id": 44,
     "competency": "Approachability",
     "question": "Give me some examples of when someone remembered you after only a brief introduction. Why do you think they remembered you?",
     "whatToLook": ""
   },
   {
+    "id": 45,
     "competency": "Business acumen",
     "question": "Give me some examples of how people in other parts of the organization use your department or group as a resource.",
     "whatToLook": ""
   },
   {
+    "id": 46,
     "competency": "Business acumen",
     "question": "Give me an example of a decision that was made in your area that had an adverse impact on another area or department.",
     "whatToLook": ""
   },
   {
+    "id": 47,
     "competency": "Business acumen",
     "question": "Tell me about about a decision you made that had an unexpected positive impact on another area or department.",
     "whatToLook": ""
   },
   {
+    "id": 48,
     "competency": "Business acumen",
     "question": "Give me an example of a time where your understanding of your organization enabled you to get something you needed that, had you lacked the understanding, you probably would not have gotten.",
     "whatToLook": ""
   },
   {
+    "id": 49,
     "competency": "Business acumen",
     "question": "Tell me about a time you recognized a problem before your boss or others in the organization did. What was the problem? What was the result?",
     "whatToLook": ""
   },
   {
+    "id": 50,
     "competency": "Business acumen",
     "question": "Describe a time when politics at work affected your job. How did you deal with it?",
     "whatToLook": ""
   },
   {
+    "id": 51,
     "competency": "Business acumen",
     "question": "Tell me how you went about learning how your current organization works.",
     "whatToLook": ""
   },
   {
+    "id": 52,
     "competency": "Career Ambition",
     "question": "Tell me about your career plan and what you have done so far to accomplish it.",
     "whatToLook": ""
   },
   {
+    "id": 53,
     "competency": "Career Ambition",
     "question": "Describe for me how you have \"made your own luck\".",
     "whatToLook": ""
   },
   {
+    "id": 54,
     "competency": "Career Ambition",
     "question": "Give me an example of how you have taken control of your career.",
     "whatToLook": ""
   },
   {
+    "id": 55,
     "competency": "Career Ambition",
     "question": "Give me an example of a time you knew you had outgrown a position and it was a time to move on.",
     "whatToLook": ""
   },
   {
+    "id": 56,
     "competency": "Career Ambition",
     "question": "Tell me about your greatest career achievements. Why did you pick those examples?",
     "whatToLook": ""
   },
   {
+    "id": 57,
     "competency": "Career Ambition",
     "question": "Tell me about a time you felt \"off track\" in your career progress.",
     "whatToLook": ""
   },
   {
+    "id": 58,
     "competency": "Career Ambition",
     "question": "Tell me about a time when you turned down a good job.",
     "whatToLook": ""
   },
   {
+    "id": 59,
     "competency": "Caring about direct reports",
     "question": "Give me an example of how you have celebrated an individual's or your teams success in the past. What was the occasion?",
     "whatToLook": ""
   },
   {
+    "id": 60,
     "competency": "Caring about direct reports",
     "question": "Tell me about a time when you were able to provide a direct report with recognition for the work she performed. What did you do?",
     "whatToLook": ""
   },
   {
+    "id": 61,
     "competency": "Caring about direct reports",
     "question": "Tell me about a time you missed an opportunity to provide a direct report with recognition for a significant accomplishment. Why did you miss it? What did you do when you realized you missed it?",
     "whatToLook": ""
   },
   {
+    "id": 62,
     "competency": "Caring about direct reports",
     "question": "Tell me what you have done on a consistent basis to ensure that your direct reports feel valued for their contributions?",
     "whatToLook": ""
   },
   {
+    "id": 63,
     "competency": "Caring about direct reports",
     "question": "Describe a time when one of your direct reports was under a great deal of pressure or stress. What did you do in the situation? What was the outcome?",
     "whatToLook": ""
   },
   {
+    "id": 64,
     "competency": "Caring about direct reports",
     "question": "Tell me about a time that you sensed that something was wrong with one of your direct reports and talked to him about it. What was the result?",
     "whatToLook": ""
   },
   {
+    "id": 65,
     "competency": "Caring about direct reports",
     "question": "Give me an example of a time that you realized that one of your direct reports was overburdened with work. What did you do? How did your action affect the situation?",
     "whatToLook": ""
   },
   {
+    "id": 66,
     "competency": "Caring about direct reports",
     "question": "Describe a work situation that required you to really listen and display compassion to a coworker/employee who was telling you about a personal/sensitive situation.",
     "whatToLook": ""
   },
   {
+    "id": 67,
     "competency": "Change management",
     "question": "Tell me about the most difficult change you’ve had to implement in your career. How did you manage the change?",
     "whatToLook": ""
   },
   {
+    "id": 68,
     "competency": "Change management",
     "question": "Give me an example of a time when you missed the early signs of employee resistance to an organizational change.",
     "whatToLook": ""
   },
   {
+    "id": 69,
     "competency": "Change management",
     "question": "Describe a time when you felt that a planned change was inappropriate. What did you do? What were the results?",
     "whatToLook": ""
   },
   {
+    "id": 70,
     "competency": "Change management",
     "question": "Tell me about a time when you had to adapt to an uncomfortable situation.",
     "whatToLook": ""
   },
   {
+    "id": 71,
     "competency": "Change management",
     "question": "Tell me about a time you led a change effort.",
     "whatToLook": ""
   },
   {
+    "id": 72,
     "competency": "Change management",
     "question": "Describe a time a change effort you were involved in was not as successfull as you or the company would have liked.",
     "whatToLook": ""
   },
   {
+    "id": 73,
     "competency": "Change management",
     "question": "Give me an example of a time you had to adjust quickly to changes over which you had no control. What was the impact of the change on you?",
     "whatToLook": ""
   },
   {
+    "id": 74,
     "competency": "Change management",
     "question": "Give me an example of a time when you helped a direct report or other person in the organization accept change and make the necessary adjustments to move forward. What were the change/transition skills that you used?",
     "whatToLook": ""
   },
   {
+    "id": 75,
     "competency": "Change management",
     "question": "Describe a situation where you, at first, resisted a change at work and later accepted it. What, specifically, changed your mind?",
     "whatToLook": ""
   },
   {
+    "id": 76,
     "competency": "Collaboration",
     "question": "Describe a situation when you offered assistance to someone even though it was outside of your job description. Describe a situation in which you helped a team member out.",
     "whatToLook": ""
   },
   {
+    "id": 77,
     "competency": "Collaboration",
     "question": "Tell me about a time when you saw someone else needed help in a previous job. How did you help?",
     "whatToLook": ""
   },
   {
+    "id": 78,
     "competency": "Comfort around higher management",
     "question": "Describe a time you were able to provide a higher level management person with recognition for the work she performed.",
     "whatToLook": ""
   },
   {
+    "id": 79,
     "competency": "Comfort around higher management",
     "question": "Tell me about a presentation you made to upper management. What was it about? How did you feel about making the presentation? How did it go?",
     "whatToLook": ""
   },
   {
+    "id": 80,
     "competency": "Comfort around higher management",
     "question": "Give me an example of a time where, by speaking management's language, you were able to convince them to do something that they migh not have done otherwise.",
     "whatToLook": ""
   },
   {
+    "id": 81,
     "competency": "Comfort around higher management",
     "question": "Give me an example of a time where, despite being tense or nervous, you were able to make a successful presentation to a higher level management group.",
     "whatToLook": ""
   },
   {
+    "id": 82,
     "competency": "Comfort around higher management",
     "question": "Tell me about a time where, had you taken time to think about how a higher level management person or group liked to receive information, you might have been more successful. If you had it to do over again, what would you do differently?",
     "whatToLook": ""
   },
   {
+    "id": 83,
     "competency": "Communication (Oral)",
     "question": "Tell me about the most difficult or complex idea, situation, or process you have ever had to explain to someone. How did you explain it? Were you successful?",
     "whatToLook": ""
   },
   {
+    "id": 84,
     "competency": "Communication (Oral)",
     "question": "Give me an example of a time you had to be excellent at multidirectional communication in order to be successful at something.",
     "whatToLook": ""
   },
   {
+    "id": 85,
     "competency": "Communication (Oral)",
     "question": "Describe a time when you had difficulty communicating your thoughts clearly to another person or group. What message were you trying to convey? Where did the difficulty in communicating lie? How did you end up getting your point accross?",
     "whatToLook": ""
   },
   {
+    "id": 86,
     "competency": "Communication (Oral)",
     "question": "Describe a time you used verbal communication to get accross a point that was important to you. Were you successful? How do you know you were successful/unsuccessful?",
     "whatToLook": ""
   },
   {
+    "id": 87,
     "competency": "Communication (Oral)",
     "question": "Give me an example of a time when you were able to successfully communicate with another person even when that individual personnaly may not have liked you.",
     "whatToLook": ""
   },
   {
+    "id": 88,
     "competency": "Communication (Oral)",
     "question": "Give me an example of a time when you were able to successfully communicate with another person you personnaly did not like.",
     "whatToLook": ""
   },
   {
+    "id": 89,
     "competency": "Communication (Oral)",
     "question": "Describe a time that you were successfully primarily because of your ability to communicate orally.",
     "whatToLook": ""
   },
   {
+    "id": 90,
     "competency": "Communication (Oral)",
     "question": "Describe a situation where you had to collect information by asking many people a lot of questions.",
     "whatToLook": ""
   },
   {
+    "id": 91,
     "competency": "Communication (Oral)",
     "question": "Tell me about a sensitive or volatile situation that required very careful communication.",
     "whatToLook": ""
   },
   {
+    "id": 92,
     "competency": "Communication (Oral)",
     "question": "Tell me about a job experience in which you had to speak up in order to be sure that other people knew what you thought or felt.",
     "whatToLook": ""
   },
   {
+    "id": 93,
     "competency": "Communication (Oral)",
     "question": "Give me an example of a time when you were able to successfully communicate with another person even when you felt the individual did not value your perspective.",
     "whatToLook": ""
   },
   {
+    "id": 94,
     "competency": "Communication (Oral)",
     "question": "Describe a situation you observed or were a part of where communication was handled particularly well by someone else. What did they do? Why do you think it was effective?",
     "whatToLook": ""
   },
   {
+    "id": 95,
     "competency": "Communication (Oral)",
     "question": "Tell me about a time when someone misunderstood somthing you said. How did you determine that you had been misunderstood? How did you make yourself clear? What did you learn from this situation that you have used to improve your communication skills?",
     "whatToLook": ""
   },
   {
+    "id": 96,
     "competency": "Communication (Oral)",
     "question": "Describe a time you failed to communicate important information to your boss.",
     "whatToLook": ""
   },
   {
+    "id": 97,
     "competency": "Communication (Oral)",
     "question": "Tell me about a time you failed to communicate effectively with your direct reports/client/customer. How did you find out you had failed to communicate effectively? What was the implication of this failure? What did you do about the situation? What did you learn from this?",
     "whatToLook": ""
   },
   {
+    "id": 98,
     "competency": "Communication (Oral)",
     "question": "Tell me about a time when your dislike for an individual had a negative impact on your ability to communicate effectively with this person.",
     "whatToLook": ""
   },
   {
+    "id": 99,
     "competency": "Communication skills",
     "question": "Tell me about a situation when you dealt with an angry customer successfully?  Not as successfully?",
     "whatToLook": ""
   },
   {
+    "id": 100,
     "competency": "Communication skills",
     "question": "When recently did you have to build a relationship with a new customer? How did you break the ice? Develop deeper ties?",
     "whatToLook": ""
   },
   {
+    "id": 101,
     "competency": "Communication skills",
     "question": "Tell me about a time when you had to deal with a challenging customer.",
     "whatToLook": ""
   },
   {
+    "id": 102,
     "competency": "Communication skills / Adaptability / Influencing skills",
     "question": "Describe a time when your manager or other superior wanted to take a path and you disagreed with it. What did you do?",
     "whatToLook": "What was the situation and the environment for giving feedback?  => Confidence, Effective Communication Skills"
   },
   {
+    "id": 103,
     "competency": "Communication skills",
     "question": "Tell me about a time when someone else neglected or failed to deliver on their work commitments - and it had a negative impact on your productivity. How did you react? What was the outcome?",
     "whatToLook": "Did anything change in the relationship with that person ?  How did you make sure that it would not happen again ? "
   },
   {
+    "id": 104,
     "competency": "Communication skills",
     "question": "Tell me about the most difficult person you've had to work with in the past. How did you manage the situation?",
     "whatToLook": "It might not have been a successful outcome, important is what steps they took and how much effort they put forward."
   },
   {
+    "id": 105,
     "competency": "Communication skills",
     "question": "Describe a time when you resolved a conflict.",
     "whatToLook": ""
   },
   {
+    "id": 106,
     "competency": "Communication skills",
     "question": "Describe a time when you were able to verbally calm a situation down.",
     "whatToLook": ""
   },
   {
+    "id": 107,
     "competency": "Communication skills",
     "question": "Tell me about a time when you had to get someone else to see things your way.",
     "whatToLook": ""
   },
   {
+    "id": 108,
     "competency": "Communication skills",
     "question": "How have you convinced someone to do something they didn’t want to do?",
     "whatToLook": ""
   },
   {
+    "id": 109,
     "competency": "Communication skills",
     "question": "Describe a time when you delivered tough feedback to a colleague.",
     "whatToLook": ""
   },
   {
+    "id": 110,
     "competency": "Communication skills",
     "question": "How do you deliver project results to your manager?",
     "whatToLook": ""
   },
   {
+    "id": 111,
     "competency": "Communication (Written)",
     "question": "Give me an example of an important report you have written.",
     "whatToLook": ""
   },
   {
+    "id": 112,
     "competency": "Communication (Written)",
     "question": "Give me an example of the kind of writing you do best.",
     "whatToLook": ""
   },
   {
+    "id": 113,
     "competency": "Communication (Written)",
     "question": "Tell me about a time when someone misunderstood something you wrote. How did you determine that had been misunderstood? How did you make yourself clear?",
     "whatToLook": ""
   },
   {
+    "id": 114,
     "competency": "Communication (Written)",
     "question": "Tell me about a time in which you had to use your written communication skills in order to get an important point across.",
     "whatToLook": ""
   },
   {
+    "id": 115,
     "competency": "Communication (Written)",
     "question": "Describe the most significant or creative written presentation you had to complete.",
     "whatToLook": ""
   },
   {
+    "id": 116,
     "competency": "Communication (Written)",
     "question": "Tell me about a time when you used your written communication skills to convey an important message.",
     "whatToLook": ""
   },
   {
+    "id": 117,
     "competency": "Communication (Written)",
     "question": "Describe a time you wrote a report that was well received by others.",
     "whatToLook": ""
   },
   {
+    "id": 118,
     "competency": "Communication (Written)",
     "question": "Tell me about a time where you didn't document something that you wish you would have.",
     "whatToLook": ""
   },
   {
+    "id": 119,
     "competency": "Communication (Written)",
     "question": "Give me an example of a time you used written communication to share information that, in hindsight, you realize should have been shared verbally.",
     "whatToLook": ""
   },
   {
+    "id": 120,
     "competency": "Compassion",
     "question": "Give me an example of a time you were particularly perceptive regarding a person's or group's feelings and needs.",
     "whatToLook": ""
   },
   {
+    "id": 121,
     "competency": "Compassion",
     "question": "Describe a time when an employee came to you with a personal pain he was experiencing.",
     "whatToLook": ""
   },
   {
+    "id": 122,
     "competency": "Compassion",
     "question": "Tell me about a time when you demonstrated to a direct report that you were concerned about a work or nonwork problem he was experiencing.",
     "whatToLook": ""
   },
   {
+    "id": 123,
     "competency": "Compassion",
     "question": "Describe a work situation that required you to really listen and display compassion for another person who was telling you about a personal or sensitive situation.",
     "whatToLook": ""
   },
   {
+    "id": 124,
     "competency": "Compassion",
     "question": "Give me an example of a time you had to put a critical task or project you were working on aside to attend to the needs of a direct report.",
     "whatToLook": ""
   },
   {
+    "id": 125,
     "competency": "Compassion",
     "question": "Tell me about a time when your failure to show compassion to someone at work was a costly oversight on your part.",
     "whatToLook": ""
   },
   {
+    "id": 126,
     "competency": "Compassion",
     "question": "Tell me about a time when you needed to give feedback to an emotional or sensitive employee.",
     "whatToLook": ""
   },
   {
+    "id": 127,
     "competency": "Compassion",
     "question": "Give me an example of particularly difficult or awkward conversation you needed to have with someone.",
     "whatToLook": ""
   },
   {
+    "id": 128,
     "competency": "Composure",
     "question": "Tell me about a time you took action based on your own convictions rather than giving in to the contrary pressures of others' opinions.",
     "whatToLook": ""
   },
   {
+    "id": 129,
     "competency": "Composure",
     "question": "Describe the worst on-the-job crisis you had to solve. How did you manage to maintain your composure?",
     "whatToLook": ""
   },
   {
+    "id": 130,
     "competency": "Composure",
     "question": "Give me a recent example of a situation you have faced when the \"pressure was on\". What happened? How did you handle it?",
     "whatToLook": ""
   },
   {
+    "id": 131,
     "competency": "Composure",
     "question": "Give me a recent example of a time you worked particularly well under a great deal of pressure. How did you handle the situation?",
     "whatToLook": ""
   },
   {
+    "id": 132,
     "competency": "Composure",
     "question": "Tell me about a time you felt your team was under too much pressure. What did you do about it?",
     "whatToLook": ""
   },
   {
+    "id": 133,
     "competency": "Composure",
     "question": "Describe a time where you were faced with problems or stressful situations that tested your coping skills. What did you do?",
     "whatToLook": ""
   },
   {
+    "id": 134,
     "competency": "Composure",
     "question": "Give me an example of a time you had to think quickly on your feet to extricate yourself from a difficult situation.",
     "whatToLook": ""
   },
   {
+    "id": 135,
     "competency": "Composure",
     "question": "Tell me about a time you lost your temper/cool/composure.",
     "whatToLook": ""
   },
   {
+    "id": 136,
     "competency": "Composure",
     "question": "Tell me about a time your were knocked off balance on a project you were working on due to unexpected information or an unexpected event.",
     "whatToLook": ""
   },
   {
+    "id": 137,
     "competency": "Composure",
     "question": "Think about a time when you felt overwhelmed or stressed out. How did you handle it?",
     "whatToLook": ""
   },
   {
+    "id": 138,
     "competency": "Composure",
     "question": "Tell me about a time when your work or an idea of yours was criticized.",
     "whatToLook": ""
   },
   {
+    "id": 139,
     "competency": "Conflict Management",
     "question": "Describe a time when you facilitated a creative solution to a problem between employees.",
     "whatToLook": ""
   },
   {
+    "id": 140,
     "competency": "Conflict Management",
     "question": "Tell me about a recent success you had with an especially difficult employee or coworker.",
     "whatToLook": ""
   },
   {
+    "id": 141,
     "competency": "Conflict Management",
     "question": "Describe a time when you took personal accountability for a conflict and initiated contact with the individual(s) involved to explain your actions.",
     "whatToLook": ""
   },
   {
+    "id": 142,
     "competency": "Conflict Management",
     "question": "Give me an example of a time on the job when you disagreed with your boss or a higher level manager. What were your options for setting the conflict? Why did you choose the option you did? Were you able to get your point across? How successful were you in settling the conflict?",
     "whatToLook": ""
   },
   {
+    "id": 143,
     "competency": "Conflict Management",
     "question": "Others' work ethics are sometimes in conflict with our own. Describe a time this happened to you. Were you able to work it out? How (or why not)? What did you learn from this experience? How have you appled that learning?",
     "whatToLook": ""
   },
   {
+    "id": 144,
     "competency": "Conflict Management",
     "question": "Tell me about a disagreement that you found difficult to handle. Why was it difficult? What did you do? How did it work out?",
     "whatToLook": ""
   },
   {
+    "id": 145,
     "competency": "Conflict Management",
     "question": "Thinking of the most difficult person you have had to deal with, describe an interaction that illustrates that difficulty. Tell me about the last time you dealt with him. How did you handle the situation?",
     "whatToLook": ""
   },
   {
+    "id": 146,
     "competency": "Conflict Management",
     "question": "Tell me about a time when you and your previous supervisor disagreed but you still found a way to get your point across.",
     "whatToLook": ""
   },
   {
+    "id": 147,
     "competency": "Conflict Management",
     "question": "There are always times when we disagree with others. Some people are congenial when we disagree with them, but that's not true of others. Tell me about a time when you had the courage to express your opposing opinion to someone who generally does not take well to opposing viewpoints. What relationship was this person to you? Why did you decide to speak up?",
     "whatToLook": ""
   },
   {
+    "id": 148,
     "competency": "Conflict Management",
     "question": "Describe a time when you had to resolve a conflict between two employees or two people on a team.",
     "whatToLook": ""
   },
   {
+    "id": 149,
     "competency": "Conflict Management",
     "question": "Tell me about a time you did not properly handle a disagreement with a coworker.",
     "whatToLook": ""
   },
   {
+    "id": 150,
     "competency": "Conflict Management",
     "question": "Tell me about a time when you felt that a coworker or manager made you look bad.",
     "whatToLook": ""
   },
   {
+    "id": 151,
     "competency": "Conflict Management",
     "question": "Think about a time when you were involved in a group project or activity where the others involved well difficult to get along with. What did you do about it?",
     "whatToLook": ""
   },
   {
+    "id": 152,
     "competency": "Conflict Management",
     "question": "Tell me about a time you were faced with conflicting priorities. How did you resolve the conflict? Was it effective? Why or why not?",
     "whatToLook": ""
   },
   {
+    "id": 153,
     "competency": "Confronting Direct Report Problems",
     "question": "Some people are more difficult to work with than others. Give me an example of how you have worked with the most difficult direct report and how that differed from how you worked with the most accommodating direct report.",
     "whatToLook": ""
   },
   {
+    "id": 154,
     "competency": "Confronting Direct Report Problems",
     "question": "Tell me about a confrontation you've had with a direct report.",
     "whatToLook": ""
   },
   {
+    "id": 155,
     "competency": "Confronting Direct Report Problems",
     "question": "Tell me about a time one of your direct reports was not meeting expectations.",
     "whatToLook": ""
   },
   {
+    "id": 156,
     "competency": "Confronting Direct Report Problems",
     "question": "Describe for me a time you let a problem with an employee get out of hand.",
     "whatToLook": ""
   },
   {
+    "id": 157,
     "competency": "Confronting Direct Report Problems",
     "question": "Tell me about a time you needed to terminate an employee for performance problems. How long between first determining there was a problem and termination?",
     "whatToLook": ""
   },
   {
+    "id": 158,
     "competency": "Confronting Direct Report Problems",
     "question": "Give me an example of a time when you had to talk to a direct report about her performance and were able to turn that employee around.",
     "whatToLook": ""
   },
   {
+    "id": 159,
     "competency": "Continuous Improvement",
     "question": "Tell me about a suggestion you made to improve the way job processes/operations worked.",
     "whatToLook": ""
   },
   {
+    "id": 160,
     "competency": "Continuous Improvement",
     "question": "Tell me about one of your workplace improvements that another department now uses.",
     "whatToLook": ""
   },
   {
+    "id": 161,
     "competency": "Continuous Improvement",
     "question": "Give me an example when you initiated a change in a process or operations.",
     "whatToLook": ""
   },
   {
+    "id": 162,
     "competency": "Continuous Improvement",
     "question": "In your last or current job, what problems did you identify that had previously been overlooked? Were changes made? Who supported the changes as a result of your ideas?",
     "whatToLook": ""
   },
   {
+    "id": 163,
     "competency": "Continuous Improvement",
     "question": "Tell me about something new or different that you did in your department that improved customer service, productivity, quality, teamwork, or performance.",
     "whatToLook": ""
   },
   {
+    "id": 164,
     "competency": "Continuous Improvement",
     "question": "Tell me about a time you found and took advantage of an opportunity to make an improvement in your position or department/team/group.",
     "whatToLook": ""
   },
   {
+    "id": 165,
     "competency": "Continuous Improvement",
     "question": "Tell me about a time when you had to sacrifice quality to meet the deadline. How did you handle it?",
     "whatToLook": ""
   },
   {
+    "id": 166,
     "competency": "Continuous Improvement",
     "question": "In some aspects of work it is important to be error free. Describe a situation where you tried to prevent errors.",
     "whatToLook": ""
   },
   {
+    "id": 167,
     "competency": "Continuous Improvement",
     "question": "Describe a time you caught an error arrow that someone else made that could have affected the outcome of the project (or affected a  customer).",
     "whatToLook": ""
   },
   {
+    "id": 168,
     "competency": "Continuous Improvement",
     "question": "Tell me about a suggestion you made to improve the processes or operations in your position or within your team.",
     "whatToLook": ""
   },
   {
+    "id": 169,
     "competency": "Continuous Improvement",
     "question": "Give me an example of a time you improved the use of or return on a resource, where the positive impact was broader than just your team/department.",
     "whatToLook": ""
   },
   {
+    "id": 170,
     "competency": "Cooperation",
     "question": "Gaining the cooperation of others can be difficult. Give a specific example of when you had to do that, and what challenges you faced. What was the outcome? What was the long-term impact on your ability to work with this person?",
     "whatToLook": ""
   },
   {
+    "id": 171,
     "competency": "Cooperation",
     "question": "Describe a time where, had you not been able to get another person's or group's cooperation, you probably would not have been successful.",
     "whatToLook": ""
   },
   {
+    "id": 172,
     "competency": "Cooperation",
     "question": "Tell me about a time that you cooperated with someone when you really would rather have not cooperated.",
     "whatToLook": ""
   },
   {
+    "id": 173,
     "competency": "Cooperation",
     "question": "At times, we must all deal with difficult people. This can be a challenge when it is someone with whom we need to develop a cooperative relationship. Tell me about a time you were successful in developing a cooperative relationship with a difficult person at work.",
     "whatToLook": ""
   },
   {
+    "id": 174,
     "competency": "Cooperation",
     "question": "What is the toughest group/team/department from which you have had to get cooperation? What were the obstacles? Why was it tough group? What were the reactions of the group members?",
     "whatToLook": ""
   },
   {
+    "id": 175,
     "competency": "Courage",
     "question": "Describe a time you had to make a decision that you knew will be unpopular.",
     "whatToLook": ""
   },
   {
+    "id": 176,
     "competency": "Courage",
     "question": "Summarize a situation where you took the initiative to get others going on an important issue, and played a leading role to achieve the results needed.",
     "whatToLook": ""
   },
   {
+    "id": 177,
     "competency": "Courage",
     "question": "Tell me about a situation when you stood up for a decision you made even though it was unpopular.",
     "whatToLook": ""
   },
   {
+    "id": 178,
     "competency": "Courage",
     "question": "Describe a leadership situation you would handle differently if you could do it over again.",
     "whatToLook": ""
   },
   {
+    "id": 179,
     "competency": "Courage",
     "question": "Tell me about a time you refrained from saying something that you felt needed to be said. Do you regret your decision? Why or why not?",
     "whatToLook": ""
   },
   {
+    "id": 180,
     "competency": "Courage",
     "question": "Give me an example of the time you needed to give constructive feedback to one of your peers or someone higher in the organization about his behavior.",
     "whatToLook": ""
   },
   {
+    "id": 181,
     "competency": "Courage",
     "question": "Tell me about a time you felt you needed to be assertive in order to get what you felt you or your team deserved or needed.",
     "whatToLook": ""
   },
   {
+    "id": 182,
     "competency": "Creativity / Innovation",
     "question": "A lot of times we use tried-and-true solutions to solve problems and it works. Tell me about a time when the tried-and-true solution did not work. Were are you able to solve the problem? How? In what way was that solution different from the tried-and-true solution?",
     "whatToLook": ""
   },
   {
+    "id": 183,
     "competency": "Creativity / Innovation",
     "question": "Describe a time when you came up with a creative solution/idea/project/report to a work problem you had been dealing with for some time.",
     "whatToLook": ""
   },
   {
+    "id": 184,
     "competency": "Creativity / Innovation",
     "question": "Tell me about a situation when you have had to come up with several new ideas in a hurry. Were they accepted? Were they successful?",
     "whatToLook": ""
   },
   {
+    "id": 185,
     "competency": "Creativity / Innovation",
     "question": "Describe a creative/innovative idea that you produced that led to a significant contribution to the success of an activity or project.",
     "whatToLook": ""
   },
   {
+    "id": 186,
     "competency": "Creativity / Innovation",
     "question": "Describe the most creative work project you've ever accomplished.",
     "whatToLook": ""
   },
   {
+    "id": 187,
     "competency": "Creativity / Innovation",
     "question": "Tell me about time you were especially creative in solving a lingering problem.",
     "whatToLook": ""
   },
   {
+    "id": 188,
     "competency": "Creativity / Innovation",
     "question": "Describe the most significant plan or programme that you ever developed or implemented.",
     "whatToLook": ""
   },
   {
+    "id": 189,
     "competency": "Creativity / Innovation",
     "question": "Tell me about a time when you created a new process or program that was considered risky.",
     "whatToLook": ""
   },
   {
+    "id": 190,
     "competency": "Creativity / Innovation",
     "question": "Describe the most creative thing you have done in the past job.",
     "whatToLook": ""
   },
   {
+    "id": 191,
     "competency": "Creativity / Innovation",
     "question": "Creativity often means stepping back from standard ways of thinking. Give me an example of a time when you were able to break out of a structured mindset and explore new or different concepts and ideas.",
     "whatToLook": ""
   },
   {
+    "id": 192,
     "competency": "Creativity / Innovation",
     "question": "Give me an example of how you have been creative in completing your responsibilities.",
     "whatToLook": ""
   },
   {
+    "id": 193,
     "competency": "Creativity / Innovation",
     "question": "Tell me about the last time you thought \"outside the box\".",
     "whatToLook": "Make sure they explain both why and how they did it."
   },
   {
+    "id": 194,
     "competency": "Creativity / Innovation",
     "question": "Give me an example of when someone brought you a new idea that was unique or unusual. What did you do?",
     "whatToLook": ""
   },
   {
+    "id": 195,
     "competency": "Creativity / Innovation",
     "question": "Describe the most creative oral presentation you have ever made.",
     "whatToLook": ""
   },
   {
+    "id": 196,
     "competency": "Creativity / Innovation",
     "question": "Tell me about a problem that you solved in a unique or unusual way. Were you happy with the outcome?",
     "whatToLook": ""
   },
   {
+    "id": 197,
     "competency": "Curiosity",
     "question": "How Do You Handle Different Perspectives?",
     "whatToLook": ""
   },
   {
+    "id": 198,
     "competency": "Curiosity",
     "question": "What is Your Approach When Facing a Challenging Obstacle?",
     "whatToLook": ""
   },
   {
+    "id": 199,
     "competency": "Curiosity",
     "question": "Tell Us a Time Where You Took Ownership Of Your Work?",
     "whatToLook": ""
   },
   {
+    "id": 200,
     "competency": "Curiosity",
     "question": "Are you self-taught in any skills?",
     "whatToLook": ""
   },
   {
+    "id": 201,
     "competency": "Customer Focus",
     "question": "Tell me about a time when you did your best to resolve a customer or client concerned and the individual was still not satisfied.",
     "whatToLook": ""
   },
   {
+    "id": 202,
     "competency": "Customer Focus",
     "question": "Give me an example of a time you effectively used your people skills to solve the customer problem.",
     "whatToLook": ""
   },
   {
+    "id": 203,
     "competency": "Customer Focus",
     "question": "Tell me about a time when un encountered a customer who was complaining of poor service. What did you do?",
     "whatToLook": ""
   },
   {
+    "id": 204,
     "competency": "Customer Focus",
     "question": "At times, we are all required to deal with difficult people. And even more demanding factor is to be of service to a difficult person. Describe a time you were successful dealing with difficult customer.",
     "whatToLook": ""
   },
   {
+    "id": 205,
     "competency": "Customer Focus",
     "question": "Tell me about a time you wished you would have handled an unhappy, angry, or irate customer a different way. ",
     "whatToLook": ""
   },
   {
+    "id": 206,
     "competency": "Customer Focus",
     "question": "Give me an example of something you have done to either develop or strengthen customer relationships.",
     "whatToLook": ""
   },
   {
+    "id": 207,
     "competency": "Customer Focus",
     "question": "Describe for me something you did to established \"customer first\" mentality in your department or team.",
     "whatToLook": ""
   },
   {
+    "id": 208,
     "competency": "Customer Focus",
     "question": "Tell me about a customer whose needs you spent considerable time learning about. What was the result of the time investment?",
     "whatToLook": ""
   },
   {
+    "id": 209,
     "competency": "Customer Focus",
     "question": "Tell me about a customer who has stuck with you over the years. What did you do to make this happen?",
     "whatToLook": ""
   },
   {
+    "id": 210,
     "competency": "Customer Focus",
     "question": "Describe the process or method you used in a particular situation to develop an understanding of your internal/external customer's viewpoints and needs.",
     "whatToLook": ""
   },
   {
+    "id": 211,
     "competency": "Customer Focus",
     "question": "Describe a time you exceeded the expectations of a client/customer/stakeholder.",
     "whatToLook": ""
   },
   {
+    "id": 212,
     "competency": "Customer Focus",
     "question": "Give me an example of a time when you acted as an advocate for a client or customer in the face of resistance from a person or the organisation as a whole.",
     "whatToLook": ""
   },
   {
+    "id": 213,
     "competency": "Customer Focus",
     "question": "Describe a time you were not able to deliver a product or service to your customer on time.",
     "whatToLook": ""
   },
   {
+    "id": 214,
     "competency": "Customer Focus",
     "question": "Everyone has said something to a customer that they wished they hadn't. Tell me about a time you did this. What did you do to correct the situation?",
     "whatToLook": ""
   },
   {
+    "id": 215,
     "competency": "Customer Focus",
     "question": "Tell me about a situation in which a customer was so difficult that you just gave up trying (or were unable) to satisfy her.",
     "whatToLook": ""
   },
   {
+    "id": 216,
     "competency": "Customer Focus",
     "question": "Sooner or later we all have to deal with a customer who makes unreasonable demands. Think about a time when you had to handle unreasonable requests.",
     "whatToLook": ""
   },
   {
+    "id": 217,
     "competency": "Customer Focus",
     "question": "Give me an example of a situation you handled where even your enemies would have to say that you demonstrated outstanding customer service.",
     "whatToLook": ""
   },
   {
+    "id": 218,
     "competency": "Customer Focus",
     "question": "Give me an example of when you initiated a change in a process, procedure, or operations in response to customer feedback.",
     "whatToLook": ""
   },
   {
+    "id": 219,
     "competency": "Customer Service",
     "question": "Describe a time when you resolved a problem for an angry customer.",
     "whatToLook": ""
   },
   {
+    "id": 220,
     "competency": "Customer Service",
     "question": "Tell me about a time when you had to deliver bad news to a customer.",
     "whatToLook": ""
   },
   {
+    "id": 221,
     "competency": "Customer Service",
     "question": "Describe a time when you went out of your way to satisfy a customer, and the outcome.",
     "whatToLook": ""
   },
   {
+    "id": 222,
     "competency": "Customer Service",
     "question": "Tell me how you prioritize customer requests when they’re all demanding to be treated as your top priority.",
     "whatToLook": ""
   },
   {
+    "id": 223,
     "competency": "Customer Service",
     "question": "How have you handled a customer who was blatantly lying about their experience?",
     "whatToLook": ""
   },
   {
+    "id": 224,
     "competency": "Customer Service",
     "question": "Recall a time when a customer complained about you, and describe the outcome.",
     "whatToLook": ""
   },
   {
+    "id": 225,
     "competency": "Decision making",
     "question": "Tell me about the toughest (most complex) decision you have had to make.",
     "whatToLook": "How did you make it? What did you have to think about? What was the outcome?Watch for clarity of the 'problem statement' and systems thinking.Tolerance with being wrong, ability to take intelligent risks?   => Prioritization, intellectual horsepower, Problem Solving, Data Driven, Analytical"
   },
   {
+    "id": 226,
     "competency": "Decision making",
     "question": "Give me two examples of good decisions you have made in the last six months?  What were the alternatives? Why were they good decisions?",
     "whatToLook": ""
   },
   {
+    "id": 227,
     "competency": "Decision making",
     "question": "Describe an occasion when you included others in your decision-making? To what extent did you incorporate their input?",
     "whatToLook": ""
   },
   {
+    "id": 228,
     "competency": "Decision making",
     "question": "Tell me about one of the most difficult (of one of the best) decisions you made in the last year/6 months. What made it so difficult? What process did you use to make the decision?",
     "whatToLook": ""
   },
   {
+    "id": 229,
     "competency": "Decision making",
     "question": "Give me an example of a time you had to make a decision where you needed to carefully considered a great deal of conflicting, as well as supporting, information, opinions, and data.",
     "whatToLook": ""
   },
   {
+    "id": 230,
     "competency": "Decision making",
     "question": "Give me an example of a difficult decision that you made where there were no supporting facts to guide you either way",
     "whatToLook": ""
   },
   {
+    "id": 231,
     "competency": "Decision making",
     "question": "Give me an example of a decision that you made rapidly and one you took more time to make.",
     "whatToLook": ""
   },
   {
+    "id": 232,
     "competency": "Decision making",
     "question": "Describe a time you had to make a quick decision with incomplete information.",
     "whatToLook": ""
   },
   {
+    "id": 233,
     "competency": "Decision making",
     "question": "Tell me about the worst on-the-job decision you've ever made.",
     "whatToLook": ""
   },
   {
+    "id": 234,
     "competency": "Decision making",
     "question": "We all make decisions that turn out to be mistakes. Describe a decision you made at work that you wish you could do over. What would you do differently if you could do it over again?",
     "whatToLook": ""
   },
   {
+    "id": 235,
     "competency": "Decision making",
     "question": "Give me an example of a time you use a contractor or consultant for something that, in hinsight, should have been done internally.",
     "whatToLook": ""
   },
   {
+    "id": 236,
     "competency": "Decision making",
     "question": "Give me an example of a time you had to make an important business decision that still affect you today.",
     "whatToLook": ""
   },
   {
+    "id": 237,
     "competency": "Decision making",
     "question": "Tell me about one of the most important decisions you have made when the information for the decision was based on the questions you asked.",
     "whatToLook": ""
   },
   {
+    "id": 238,
     "competency": "Decision making",
     "question": "Tell me about a time when you took a public stance on an issue and then had to change your position.",
     "whatToLook": ""
   },
   {
+    "id": 239,
     "competency": "Decision making",
     "question": "Describe a time when you had to make a decision that you knew would be unpopular.",
     "whatToLook": ""
   },
   {
+    "id": 240,
     "competency": "Decision making",
     "question": "Give me an example of a time when you had to make a decision and policies/procedures were not in place.",
     "whatToLook": ""
   },
   {
+    "id": 241,
     "competency": "Decision making",
     "question": "Tell me about a situation that, if you had not acted immediately, could have turned into major problem.",
     "whatToLook": ""
   },
   {
+    "id": 242,
     "competency": "Decision making",
     "question": "Give me an example of a situation when, by recognizing and considering the financial implications of a decision, you decided to do something different from what you originally planned.",
     "whatToLook": ""
   },
   {
+    "id": 243,
     "competency": "Decision making",
     "question": "Tell me about a time you had to defend a decision you made.",
     "whatToLook": ""
   },
   {
+    "id": 244,
     "competency": "Delegation",
     "question": "Give me an example of when you assigned an employee to make a decision or carry out a major task or responsibility.",
     "whatToLook": ""
   },
   {
+    "id": 245,
     "competency": "Delegation",
     "question": "Tell me about a task or project that you successfully delegated. What happened? What did you learn? How did you apply what you learnt to other situations?",
     "whatToLook": ""
   },
   {
+    "id": 246,
     "competency": "Delegation",
     "question": "Tell me about the kinds of work assignments you give to your direct reports. What assignements do you not give to your direct reports?",
     "whatToLook": ""
   },
   {
+    "id": 247,
     "competency": "Delegation",
     "question": "Give me an example of a time that you should have delegated a task/project, but chose not to.",
     "whatToLook": ""
   },
   {
+    "id": 248,
     "competency": "Delegation",
     "question": "Describe a time you had to delegate part of a large project or assignment to some of your direct reports. How did you decide what tasks to delegate to which people? What problems occurred?",
     "whatToLook": ""
   },
   {
+    "id": 249,
     "competency": "Delegation",
     "question": "Give me an example of a major project or task you delegated to one of your employees. How did you monitor the project or task?",
     "whatToLook": ""
   },
   {
+    "id": 250,
     "competency": "Delegation",
     "question": "Give me an example of a time you did a poor job of delegating task or project.",
     "whatToLook": ""
   },
   {
+    "id": 251,
     "competency": "Detail Orientation",
     "question": "Give me an example of a time when your attention to detail helped you avoid making a mistake.",
     "whatToLook": ""
   },
   {
+    "id": 252,
     "competency": "Detail Orientation",
     "question": "Tell me about a time when you caught an error that others had missed.",
     "whatToLook": ""
   },
   {
+    "id": 253,
     "competency": "Detail Orientation",
     "question": "Describe a situation where you didn't pay as close attention to the details as you should have.",
     "whatToLook": ""
   },
   {
+    "id": 254,
     "competency": "Detail Orientation",
     "question": "Tell me about a time when you paid too much attention to the details and not enough to the big picture.",
     "whatToLook": ""
   },
   {
+    "id": 255,
     "competency": "Developing Direct Reports",
     "question": "Tell me about a time you had to confront and handle the negative behavior of someone who reports to you. What was the situation? What did you do? What was the outcome?",
     "whatToLook": ""
   },
   {
+    "id": 256,
     "competency": "Developing Direct Reports",
     "question": "Tell me about a time you had to take disciplinary actions with one of your direct reports. What led to that action? How did you handle it? What was the outcome?",
     "whatToLook": ""
   },
   {
+    "id": 257,
     "competency": "Developing Direct Reports",
     "question": "Tell me about a specific developmental plan that you created and carried out with one or more of your direct reports who was not performing up to expectations. What were the components of the developmental plan? What was the time frame? What was the outcome?",
     "whatToLook": ""
   },
   {
+    "id": 258,
     "competency": "Developing Direct Reports",
     "question": "Tell me about a time you had to provide constructive feedback to an employee who was not meeting performance expectations. Why was the employee not meeting expectations?",
     "whatToLook": "Listen for whether the person accepts responsibility for developing employees or places the blame solely on the employees."
   },
   {
+    "id": 259,
     "competency": "Developing Direct Reports",
     "question": "Describe for me the process and steps you went through to develop one of your most difficult employees. Was it successful? Why or why not?",
     "whatToLook": ""
   },
   {
+    "id": 260,
     "competency": "Developing Direct Reports",
     "question": "Tell me about a time when you had to tell a staff member that you were dissatisfied with his work.",
     "whatToLook": ""
   },
   {
+    "id": 261,
     "competency": "Developing Direct Reports",
     "question": "Tell me about a time you coached or mentored someone to a higher level of performance or higher level position.",
     "whatToLook": ""
   },
   {
+    "id": 262,
     "competency": "Developing Direct Reports",
     "question": "Tell me about a time you failed to develop someone to adequately prepare her for task, project, or responsibility.",
     "whatToLook": ""
   },
   {
+    "id": 263,
     "competency": "Developing Direct Reports",
     "question": "Describe what steps you have taken in your current on previous positions to define and communicate performance expectations to your employees.",
     "whatToLook": ""
   },
   {
+    "id": 264,
     "competency": "Developing Direct Reports",
     "question": "Many of us have had to deal with a situation where an employee was a good performer for a period of time, I'm but was performance has started slipping. Tell me about a time you had to deal with this kind of situation. ",
     "whatToLook": ""
   },
   {
+    "id": 265,
     "competency": "Developing Direct Reports",
     "question": "Give me an example of a time you helped one of your direct reports develop or improve his (communication, negotiation, sales, etc) skills. How did you determine that this was developmental need?",
     "whatToLook": ""
   },
   {
+    "id": 266,
     "competency": "Direction to Others",
     "question": "Tell me how you know what your direct reports are doing.",
     "whatToLook": ""
   },
   {
+    "id": 267,
     "competency": "Direction to Others",
     "question": "Describe your procedures for keeping track on what is going on in your department.",
     "whatToLook": ""
   },
   {
+    "id": 268,
     "competency": "Direction to Others",
     "question": "Tell me about the process you used to set goals for your department and your direct reports last year.",
     "whatToLook": ""
   },
   {
+    "id": 269,
     "competency": "Direction to Others",
     "question": "Give me an example of a time when you failed to set clear directions for one of your direct reports or your team.",
     "whatToLook": ""
   },
   {
+    "id": 270,
     "competency": "Direction to Others",
     "question": "Give me an example of a stretch goal you set for direct report. Why was this a stretch goal? Was the direct report able to accomplish the goal? What did you do to contribute to her success?",
     "whatToLook": ""
   },
   {
+    "id": 271,
     "competency": "Direction to Others",
     "question": "Managers quite often delegate major projects to their direct reports. Tell me about a time that you did that and how you kept informed about the status of the project.",
     "whatToLook": ""
   },
   {
+    "id": 272,
     "competency": "Diversity",
     "question": "Tell me about a time you had to adapt to a wide variety of people by accepting or understanding their perspectives.",
     "whatToLook": ""
   },
   {
+    "id": 273,
     "competency": "Diversity",
     "question": "Tell me about time you adapted your style in order to work effectively with those who were different from you.",
     "whatToLook": ""
   },
   {
+    "id": 274,
     "competency": "Diversity",
     "question": "Give me an example of a time when a person's cultural background affected your approach to a work situation.",
     "whatToLook": ""
   },
   {
+    "id": 275,
     "competency": "Diversity",
     "question": "Tell me about the most difficult challenge you have faced in working cooperatively with someone who did not share your ideas, values, or beliefs. What was the impact on your ability to get things done? What was the impact on the other person's ability to get things done?",
     "whatToLook": ""
   },
   {
+    "id": 276,
     "competency": "Diversity",
     "question": "Give me an example of a time when your values and beliefs impacted your relationship with a peer, coworker, supervisor, or customer.",
     "whatToLook": ""
   },
   {
+    "id": 277,
     "competency": "Diversity",
     "question": "Tell me the steps you have taken to create a work environment where differences are valued, encouraged, and supported.",
     "whatToLook": ""
   },
   {
+    "id": 278,
     "competency": "Diversity",
     "question": "Describe a time you were able to make your voice heard in a predominantly opposite-sex-dominated environment.",
     "whatToLook": ""
   },
   {
+    "id": 279,
     "competency": "Diversity",
     "question": "Tell me about a time you took action to make someone feel comfortable in an environment that was obviously uncomfortable with his or her presence.",
     "whatToLook": ""
   },
   {
+    "id": 280,
     "competency": "Diversity",
     "question": "Tell me about a time you avoided forming an opinion of someone based on his outward appearance.",
     "whatToLook": ""
   },
   {
+    "id": 281,
     "competency": "Diversity",
     "question": "Describe a time when, in a work environment, you made an intentional effort to get to know someone from another culture.",
     "whatToLook": ""
   },
   {
+    "id": 282,
     "competency": "Diversity",
     "question": "Describe a time you had to separate the person from the issue when working to resolve differences.",
     "whatToLook": ""
   },
   {
+    "id": 283,
     "competency": "Diversity",
     "question": "Describe a situation when you had to give feedback to someone who was not accepting of others.",
     "whatToLook": ""
   },
   {
+    "id": 284,
     "competency": "Diversity",
     "question": "Describe the way you handled a specific problem involving others with different values, ideas, and beliefs in your current/previous job.",
     "whatToLook": ""
   },
   {
+    "id": 285,
     "competency": "Emotional Intelligence",
     "question": "Give me an example of a time that ability to notice another person's feelings or concerns enabled you to proactively address an issue.",
     "whatToLook": ""
   },
   {
+    "id": 286,
     "competency": "Emotional Intelligence",
     "question": "Tell me about a time that your ability to appropriately use empathy turned a situation around.",
     "whatToLook": ""
   },
   {
+    "id": 287,
     "competency": "Emotional Intelligence",
     "question": "Describe a situation where, because you were aware of the nonverbal dynamics of a person or group, you adapted your communication and turned the situation around.",
     "whatToLook": ""
   },
   {
+    "id": 288,
     "competency": "Emotional Intelligence",
     "question": "Tell me about a time you feel you mismanaged an emotionally charged situation.",
     "whatToLook": ""
   },
   {
+    "id": 289,
     "competency": "Emotional Intelligence",
     "question": "Give me an example of a time when, because you failed to detect a person's feelings are concerns, you-at least initially- mishandled the situation.",
     "whatToLook": ""
   },
   {
+    "id": 290,
     "competency": "Emotional Intelligence",
     "question": "Give me an example of a time where your understanding of your own emotions- and of the triggers that set off emotional responses in you- saved you from doing or saying something in a business setting that you might have regretted.",
     "whatToLook": ""
   },
   {
+    "id": 291,
     "competency": "Emotional Intelligence",
     "question": "Describe for me a time you were able to transform your anxiety or negative emotions into positive emotions and actions.",
     "whatToLook": ""
   },
   {
+    "id": 292,
     "competency": "Emotional Intelligence",
     "question": "Give me an example of a time where-even thought it was difficult- you were able to control and filter your emotions in a constructive way.",
     "whatToLook": ""
   },
   {
+    "id": 293,
     "competency": "Empowerment",
     "question": "Describe for me a time when you provided your direct reports with the freedom to determine their work process, within the parameters of the task/project, even though you would have preferred that they do it another way. ",
     "whatToLook": ""
   },
   {
+    "id": 294,
     "competency": "Empowerment",
     "question": "Tell me about a time you encouraged a direct report to make decisions within is area of responsibility that worked out better than you expected.",
     "whatToLook": ""
   },
   {
+    "id": 295,
     "competency": "Empowerment",
     "question": "Give me an example of the time you encouraged a direct report to make a decision within her area of responsibility that did not work out well. What happened? What did you do? What was the final end result?",
     "whatToLook": ""
   },
   {
+    "id": 296,
     "competency": "Empowerment",
     "question": "Tell me about a time you encouraged your direct reports to be actively involved in solving problems related to their position rather than coming to you for the answers.",
     "whatToLook": ""
   },
   {
+    "id": 297,
     "competency": "Empowerment",
     "question": "Give me a specific example of how you have empowered your staff to make independent decisions.",
     "whatToLook": ""
   },
   {
+    "id": 298,
     "competency": "Empowerment",
     "question": "Describe a time when, even though it was difficult, you kept quiet and let a team resolve problems on its own rather than prescribing a solution for them.",
     "whatToLook": ""
   },
   {
+    "id": 299,
     "competency": "Fairness to Direct Reports",
     "question": "Describe a time when you failed to treat all your direct reports equally.",
     "whatToLook": ""
   },
   {
+    "id": 300,
     "competency": "Fairness to Direct Reports",
     "question": "Tell me about a time you had to have a candid discussion with one or your direct reports regarding a work-related issue.",
     "whatToLook": ""
   },
   {
+    "id": 301,
     "competency": "Fairness to Direct Reports",
     "question": "Give me an example of a time you had to handle a tough employee problem that challenged your ability to remain fair to all employees.",
     "whatToLook": ""
   },
   {
+    "id": 302,
     "competency": "Fairness to Direct Reports",
     "question": "Tell me about a time you gave one employee preferential treatment. Why did you do it? What was the impact?",
     "whatToLook": ""
   },
   {
+    "id": 303,
     "competency": "Fairness to Direct Reports",
     "question": "Tell me about a time when you treated all your direct reports equally even though you were tempted to show preferential treatment to one or some of them.",
     "whatToLook": ""
   },
   {
+    "id": 304,
     "competency": "Flexibility",
     "question": "Tell me about a time when you had to stop working on a project/idea/assignment and start working on a completely different one. What did you do? How did that work out?",
     "whatToLook": ""
   },
   {
+    "id": 305,
     "competency": "Flexibility",
     "question": "Give me an example of a time your tightly scheduled day was interrupted and thrown way off schedule.",
     "whatToLook": ""
   },
   {
+    "id": 306,
     "competency": "Flexibility",
     "question": "Describe a time when you changed your behavior to fit a specific situation.",
     "whatToLook": "Make sure you you find out, at minimum, what the situation was, what the specific behavior was prior to and after the change, why the behavior change was made, and whether the behaviour change was appropriate in retrospect."
   },
   {
+    "id": 307,
     "competency": "Flexibility",
     "question": "Tell me about a time when you changed or modified your priorities to meet another person's or group's expectations.",
     "whatToLook": ""
   },
   {
+    "id": 308,
     "competency": "Flexibility",
     "question": "Tell me about a time when you had to change your point of view or your plans to take in account new information or a change in priorities.",
     "whatToLook": ""
   },
   {
+    "id": 309,
     "competency": "Flexibility",
     "question": "Describe a time when you were instructed to modify or change your actions to respond to the needs of another person. Do you feel that the demand was fair? Why or why not?",
     "whatToLook": ""
   },
   {
+    "id": 310,
     "competency": "Flexibility",
     "question": "Tell me about a time you uncovered new information that affected a decision that you had already made.",
     "whatToLook": ""
   },
   {
+    "id": 311,
     "competency": "Flexibility",
     "question": "Tell me about a situation in which you have had to adjust to changes over which you had no control.",
     "whatToLook": ""
   },
   {
+    "id": 312,
     "competency": "Flexibility",
     "question": "Tell me about a time when you had to adjust to another person's working style in order to complete a project/task/goal.",
     "whatToLook": ""
   },
   {
+    "id": 313,
     "competency": "Flexibility",
     "question": "Describe an instance when you had think on your feet to extricate yourself from a difficult situation.",
     "whatToLook": ""
   },
   {
+    "id": 314,
     "competency": "Flexibility",
     "question": "Describe a time when you made a major sacrifice to achieve an important goal.",
     "whatToLook": ""
   },
   {
+    "id": 315,
     "competency": "Flexibility",
     "question": "Give me an example of a time when you didn't bend on the policy, procedure, or operation, and later wished you had.",
     "whatToLook": ""
   },
   {
+    "id": 316,
     "competency": "Flexibility",
     "question": "Give me an example of a time you were unwilling or unable to make the necessary sacrifice to achieve a goal.",
     "whatToLook": ""
   },
   {
+    "id": 317,
     "competency": "Flexibility",
     "question": "Most organizations today make ongoing changes in policies and procedures. Tell me about a time you had difficulty in dealing with one of these changes. What about the change made it difficult? How did you deal with the situation?",
     "whatToLook": ""
   },
   {
+    "id": 318,
     "competency": "Functional Skills",
     "question": "Tell me about a situation in which you had to apply some newly acquired knowledge or skill. What was the knowledge or skill?",
     "whatToLook": ""
   },
   {
+    "id": 319,
     "competency": "Functional Skills",
     "question": "In your current (most recent) position, tell me how you developed an appropriate depth of knowledge and skill about the company's products/services.",
     "whatToLook": ""
   },
   {
+    "id": 320,
     "competency": "Functional Skills",
     "question": "Tell me about the changes or issues that are being discussed or taking place in your area of expertise. How are these issues or changes affecting the way you do your job?",
     "whatToLook": ""
   },
   {
+    "id": 321,
     "competency": "Functional Skills",
     "question": "Tell me how you keep abreast of the professional/technical aspects of your position.",
     "whatToLook": ""
   },
   {
+    "id": 322,
     "competency": "Functional Skills",
     "question": "Tell me about a time you anticipated the need to improve a technical functional skill and took action proactively.",
     "whatToLook": ""
   },
   {
+    "id": 323,
     "competency": "Functional Skills",
     "question": "Give me an example of a time you took the initiative to find out about the new or upcoming product/service change.",
     "whatToLook": ""
   },
   {
+    "id": 324,
     "competency": "Functional Skills",
     "question": "Give me an example of where your understanding of your job contributed to solving a larger problem in the organization.",
     "whatToLook": ""
   },
   {
+    "id": 325,
     "competency": "Functional Skills",
     "question": "Describe a situation where your professional/technical expertise made a significant difference.",
     "whatToLook": ""
   },
   {
+    "id": 326,
     "competency": "Functional Skills",
     "question": "Tell me about a time where your industry knowledge enabled you to identify a potential problem and develop a strategy to address it. What in your knowledge base enabled you to detect the potential problem?",
     "whatToLook": ""
   },
   {
+    "id": 327,
     "competency": "Functional Skills",
     "question": "Through a real-life story, convince me that you are able to apply specific product/service knowledge to solve an internal or external problem.",
     "whatToLook": ""
   },
   {
+    "id": 328,
     "competency": "Functional Skills",
     "question": "Give me an example of how you acquired a technical skill and converted it into a practical application.",
     "whatToLook": ""
   },
   {
+    "id": 329,
     "competency": "Functional Skills",
     "question": "Tell me about your greatest success in using logic to solve a (technical/functional/jobs kill) problem. Why do you think you were successful?",
     "whatToLook": ""
   },
   {
+    "id": 330,
     "competency": "Functional Skills",
     "question": "At some point, everyone gets in over his head. Tell me about a time this happened to you.",
     "whatToLook": ""
   },
   {
+    "id": 331,
     "competency": "Functional Skills",
     "question": "Tell me about a time you were unable to overcome a (technical/functional/job skill) problem? Why do you think you were unsuccessful? What did you learn from that situation?",
     "whatToLook": ""
   },
   {
+    "id": 332,
     "competency": "Goal Setting",
     "question": "Give me an example of an important goal you had to set and how you accomplished that goal.",
     "whatToLook": ""
   },
   {
+    "id": 333,
     "competency": "Goal Setting",
     "question": "Give me an example of a time when you set a goal and were able to meet or achieve it.",
     "whatToLook": ""
   },
   {
+    "id": 334,
     "competency": "Goal Setting",
     "question": "Tell me about a time when your department was going through long-term changes or working on a long-term project. What did you do to keep your staff focused?",
     "whatToLook": ""
   },
   {
+    "id": 335,
     "competency": "Goal Setting",
     "question": "Tell me about an important goal you failed to achieve.",
     "whatToLook": ""
   },
   {
+    "id": 336,
     "competency": "Goal Setting",
     "question": "Describe a time when you set a goal for yourself and did not achieve it because it was too high. What was the standard? Why was it too high? What were the ramifications of your failure to achieve the goal?",
     "whatToLook": ""
   },
   {
+    "id": 337,
     "competency": "Goal Setting",
     "question": "Describe a time when you set a goal for yourself that was too low.",
     "whatToLook": ""
   },
   {
+    "id": 338,
     "competency": "Goal Setting",
     "question": "Describe how you set your goals for last year and how you measured your work. Did you achieve your goals? If not, why not?",
     "whatToLook": ""
   },
   {
+    "id": 339,
     "competency": "Goal Setting",
     "question": "Tell me about a major project you recently finished. Specifically, how did you set the goals and monitor your progress?",
     "whatToLook": ""
   },
   {
+    "id": 340,
     "competency": "Goal Setting",
     "question": "Give me an example of a time when you used a systematic process to define your objectives even though you were not prompted or directed to do so. What type of system did you use? What payoff did you get from using the process?",
     "whatToLook": ""
   },
   {
+    "id": 341,
     "competency": "Goal Setting",
     "question": "Tell me about a time you were given a goal by someone else that you believed would be impossible to attain.",
     "whatToLook": ""
   },
   {
+    "id": 342,
     "competency": "Goal Setting",
     "question": "Give me an example of a time you made a major sacrifice to achieve an important goal.",
     "whatToLook": ""
   },
   {
+    "id": 343,
     "competency": "Goal Setting",
     "question": "Tell me about a time when you were unwilling or unable to make the sacrifice necessary to achieve a goal.",
     "whatToLook": ""
   },
   {
+    "id": 344,
     "competency": "Goal Setting",
     "question": "Describe your organization's culture and how that culture made it challenging for you to achieve one of your goals.",
     "whatToLook": ""
   },
   {
+    "id": 345,
     "competency": "Hiring",
     "question": "Give me an example of a time you were reponsible for hiring and orienting a new employee. What did you do to help him learn the new job? What did you do to help him learn about the company?",
     "whatToLook": ""
   },
   {
+    "id": 346,
     "competency": "Hiring",
     "question": "Tell me about the best hire you ever made.",
     "whatToLook": ""
   },
   {
+    "id": 347,
     "competency": "Hiring",
     "question": "Tell me about the worst hire you ever made.",
     "whatToLook": ""
   },
   {
+    "id": 348,
     "competency": "Hiring",
     "question": "Tell me about a time you discovered raw talent within your organization and recruited that person. How did it work out?",
     "whatToLook": ""
   },
   {
+    "id": 349,
     "competency": "Hiring",
     "question": "Give me an example of the talents and skills that a couple of your direct reports have that you don't possess.",
     "whatToLook": ""
   },
   {
+    "id": 350,
     "competency": "Hiring",
     "question": "Walk me through the process you used for the last position you filled.",
     "whatToLook": ""
   },
   {
+    "id": 351,
     "competency": "Hiring",
     "question": "Every now and then there is a position that is hard to fill. Tell me about the last time you had to deal with that. Why was the position hard to fill? How did you overcome that obstacle?",
     "whatToLook": ""
   },
   {
+    "id": 352,
     "competency": "Humor",
     "question": "Tell me about a time you used your sens of humor to diffuse a potential problem.",
     "whatToLook": ""
   },
   {
+    "id": 353,
     "competency": "Humor",
     "question": "Give me an example of a time that you did something so silly that you had to laugh at yourself.",
     "whatToLook": ""
   },
   {
+    "id": 354,
     "competency": "Humor",
     "question": "Describe a situation where you used humor to ease tensions.",
     "whatToLook": ""
   },
   {
+    "id": 355,
     "competency": "Humor",
     "question": "Give me an example of a time where, in retrospect, if you had used your sense of humor, something at work would most likely have worked out better.",
     "whatToLook": ""
   },
   {
+    "id": 356,
     "competency": "Humor",
     "question": "Tell me about a time where you used humor that backfired on you.",
     "whatToLook": ""
   },
   {
+    "id": 357,
     "competency": "Humor",
     "question": "Tell me about a situation where you dealt effectively with another's person's inappropriate use of humor.",
     "whatToLook": ""
   },
   {
+    "id": 358,
     "competency": "Humor",
     "question": "Give me an example of a time when your ability to employ a sense of humor made you more successful than if you had not used it.",
     "whatToLook": ""
   },
   {
+    "id": 359,
     "competency": "Humility",
     "question": "Tell me about a time when someone gave you critical or constructive feedback.",
     "whatToLook": "Openess to receiving feedback."
   },
   {
+    "id": 360,
     "competency": "Humility",
     "question": "Describe a situation in which you wished you had acted differently with someone at work. What happened?",
     "whatToLook": ""
   },
   {
+    "id": 361,
     "competency": "Humility",
     "question": "Tell me about your most recent failure (or most painful experience). Have you ever been in a highly uncertain or ambiguous work situation? How did you react?",
     "whatToLook": "What were the key learnings? Gauge self awareness, ability to maintain perspective and impact on those around him/her.  =>how they perceive and manage their own failures"
   },
   {
+    "id": 362,
     "competency": "Humility",
     "question": "Tell me about weaknesses you've observed in your professional life, what steps have you taken to develop them?",
     "whatToLook": ""
   },
   {
+    "id": 363,
     "competency": "Humility",
     "question": "While at ___________, what training did you seek out in _______________ (process, function, task, etc.) and how did you use it on the job?",
     "whatToLook": ""
   },
   {
+    "id": 364,
     "competency": "Humility",
     "question": "Describe an example of your weakest skill area, and how you manage it.",
     "whatToLook": ""
   },
   {
+    "id": 365,
     "competency": "Impact-oriented",
     "question": "If you left your company, what legacy/fingerprints would you leave behind?",
     "whatToLook": ""
   },
   {
+    "id": 366,
     "competency": "Impact-oriented",
     "question": "In your job, who are you internal customers? What impact does your work have on their jobs? What impact does their work have on your job?",
     "whatToLook": ""
   },
   {
+    "id": 367,
     "competency": "Influencing",
     "question": "Describe a time when you had to persuade someone to go along with your idea. How did you do it? With your Boss? Peer? Direct Report?",
     "whatToLook": ""
   },
   {
+    "id": 368,
     "competency": "Influencing",
     "question": "When have you inspired someone to work harder or better at a job?  How?",
     "whatToLook": ""
   },
   {
+    "id": 369,
     "competency": "Influencing",
     "question": "Describe a time when you had to influence someone to do something differently than they were used to. How did you do it?",
     "whatToLook": ""
   },
   {
+    "id": 370,
     "competency": "Influencing",
     "question": "Describe a specific situation where you had to influence a group to achieve a shared goal.",
     "whatToLook": "What was the situation & goal? What steps did you take?  => Business Vision, Senses Big Opportunity, Inspires, Conveys Energy"
   },
   {
+    "id": 371,
     "competency": "Influencing",
     "question": "Tell me about the best idea you ever sold to a peer, employee, or higher level management. What was your approach? Why do you think you succeeded?",
     "whatToLook": ""
   },
   {
+    "id": 372,
     "competency": "Influencing",
     "question": "Tell me about a time when you anticipated a problem and were able to use your influence or persuasiveness to change the direction of the situation positively.",
     "whatToLook": ""
   },
   {
+    "id": 373,
     "competency": "Influencing",
     "question": "Tell me how you persuaded someone to support an unpopular project or idea.",
     "whatToLook": ""
   },
   {
+    "id": 374,
     "competency": "Influencing",
     "question": "Describe a situation in which you were able to use persuasion to successfully convince someone to see/do thing your way. ",
     "whatToLook": "Make sure you find out what level the person was whom they convinced."
   },
   {
+    "id": 375,
     "competency": "Influencing",
     "question": "Tell me about a time when you used your interpersonal skills to build a network of contacts to reach goals.",
     "whatToLook": ""
   },
   {
+    "id": 376,
     "competency": "Influencing",
     "question": "Describe a time when you had to influence a number of different people groups coming from different perspectives to support you in what you wanted or needed to do. What kind of influencing techniques did you used? How were the techniques you used different from one group/person to another?",
     "whatToLook": ""
   },
   {
+    "id": 377,
     "competency": "Influencing",
     "question": "Give me an example of a time you had to convince others to conform to a policy, practice, or procedure you didn't believe in.",
     "whatToLook": ""
   },
   {
+    "id": 378,
     "competency": "Influencing",
     "question": "Tell me about a specific experience of yours that illustrates your ability to influence another person verbally. Use an example that involves _____________ (e.g., changing an attitude, selling a idea, changing a process/procedure).",
     "whatToLook": ""
   },
   {
+    "id": 379,
     "competency": "Influencing",
     "question": "Give me an example of a time when you persuaded someone to do something that the person did not, initially, want to do.",
     "whatToLook": ""
   },
   {
+    "id": 380,
     "competency": "Influencing",
     "question": "Tell me about a situation where you had to persuade someone to accept your idea or proposal.",
     "whatToLook": ""
   },
   {
+    "id": 381,
     "competency": "Influencing",
     "question": "Describe a time you were unable to sell your idea to a key person.",
     "whatToLook": ""
   },
   {
+    "id": 382,
     "competency": "Influencing",
     "question": "Describe a situation in which you were unable to use persuasion to successfully convince someone to see/do things your way.",
     "whatToLook": ""
   },
   {
+    "id": 383,
     "competency": "Information Gathering",
     "question": "Tell me about a time where your failure to gather sufficient information resulted in your making a decision or taking an action that you probably should not have done.",
     "whatToLook": ""
   },
   {
+    "id": 384,
     "competency": "Information Gathering",
     "question": "Describe a time where your patience in gathering information paid off.",
     "whatToLook": ""
   },
   {
+    "id": 385,
     "competency": "Information Gathering",
     "question": "Tell me about the most difficult time you have had in the last couple of years gathering the information you needed for a task or project.",
     "whatToLook": ""
   },
   {
+    "id": 386,
     "competency": "Information Gathering",
     "question": "Give me an example of a time where, because you didn't have enough information, you felt it was wise not to voice your opinion on something.",
     "whatToLook": ""
   },
   {
+    "id": 387,
     "competency": "Information Gathering",
     "question": "Tell me about a situation where, because you had a strong network, you were able to gather information that others were not able to secure.",
     "whatToLook": ""
   },
   {
+    "id": 388,
     "competency": "Information Sharing",
     "question": "Tell me about a time when you failed to give your team or a member of your team the information needed to do the job you asked of them.",
     "whatToLook": ""
   },
   {
+    "id": 389,
     "competency": "Information Sharing",
     "question": "Give me an example of a time you provided a direct report with information that helped her make a good decision.",
     "whatToLook": ""
   },
   {
+    "id": 390,
     "competency": "Information Sharing",
     "question": "Describe a situation where you delayed providing others with information that would have been valuable to them.",
     "whatToLook": ""
   },
   {
+    "id": 391,
     "competency": "Information Sharing",
     "question": "Give me an example of a time where you felt you did an outstanding job of sharing information with another person.",
     "whatToLook": ""
   },
   {
+    "id": 392,
     "competency": "Information Sharing",
     "question": "Keeping information confidential is very important. Describe the last time someone asked you for information that they should not have access to. What did you do?",
     "whatToLook": ""
   },
   {
+    "id": 393,
     "competency": "Information Sharing",
     "question": "Give me an example of a time when you were slow to share information with your direct reports or team members and this had a negative impact on one or more of them.",
     "whatToLook": ""
   },
   {
+    "id": 394,
     "competency": "Initiative",
     "question": "Give an example of a goal you surpassed and how you achieved it.",
     "whatToLook": ""
   },
   {
+    "id": 395,
     "competency": "Initiative",
     "question": "Have you ever been a situation where you didn’t have enough work?",
     "whatToLook": ""
   },
   {
+    "id": 396,
     "competency": "Initiative",
     "question": "Please describe when you’ve gone above and beyond the call of duty.",
     "whatToLook": ""
   },
   {
+    "id": 397,
     "competency": "Initiative",
     "question": "Describe a time when you were given additional responsibilities based on your performance.",
     "whatToLook": ""
   },
   {
+    "id": 398,
     "competency": "Initiative",
     "question": "Tell me about a time when you showed initiative at your last job.",
     "whatToLook": ""
   },
   {
+    "id": 399,
     "competency": "Initiative",
     "question": "How have you taken on additional work without stepping on a colleague’s toes?",
     "whatToLook": ""
   },
   {
+    "id": 400,
     "competency": "Initiative",
     "question": "Describe a significant project idea you initiated in the last year. How did you know it was needed? Was it used? How did it work?",
     "whatToLook": ""
   },
   {
+    "id": 401,
     "competency": "Initiative",
     "question": "Give me an example of a project where you came up with the idea and managed the process start to finish.",
     "whatToLook": ""
   },
   {
+    "id": 402,
     "competency": "Initiative",
     "question": "Give me an example of a project or task that you had to accomplish without sufficient information, guidelines, or direction.",
     "whatToLook": ""
   },
   {
+    "id": 403,
     "competency": "Initiative",
     "question": "Tell me about a project or idea-not necessarily you own-that was implemented successfully primarily because of your efforts.",
     "whatToLook": ""
   },
   {
+    "id": 404,
     "competency": "Initiative",
     "question": "Describe a situation where you responded proactively.",
     "whatToLook": ""
   },
   {
+    "id": 405,
     "competency": "Initiative",
     "question": "Give me an example of something that you have done to make your job easier or more interesting.",
     "whatToLook": ""
   },
   {
+    "id": 406,
     "competency": "Initiative",
     "question": "Describe a situation in which you recognized a potential problem as an opportunity.",
     "whatToLook": ""
   },
   {
+    "id": 407,
     "competency": "Initiative",
     "question": "Give me an example of a time you went above or beyond the call of duty in order to get a job done.",
     "whatToLook": ""
   },
   {
+    "id": 408,
     "competency": "Initiative",
     "question": "Describe a time where you took the initiative to act rather than waiting to be told what to do.",
     "whatToLook": ""
   },
   {
+    "id": 409,
     "competency": "Initiative",
     "question": "Tell me about a time you reached out for additional responsabilities.",
     "whatToLook": ""
   },
   {
+    "id": 410,
     "competency": "Initiative",
     "question": "Give me some examples of you doing more than what was expected of you in your job.",
     "whatToLook": ""
   },
   {
+    "id": 411,
     "competency": "Initiative",
     "question": "Tell me about a time when you pushed yourself to do more than was necessary.",
     "whatToLook": ""
   },
   {
+    "id": 412,
     "competency": "Initiative",
     "question": "We all have periods of downtime at work. Tell me about a downtime you had, why you had it, and what you did with that time.",
     "whatToLook": ""
   },
   {
+    "id": 413,
     "competency": "Initiative",
     "question": "Give me an example of an idea you tried to sell to management that was not adopted. Why do you think it wasn't adopted? If you had it to do over again, what would you do differently?",
     "whatToLook": ""
   },
   {
+    "id": 414,
     "competency": "Innovation",
     "question": "What's your method to make your team more innovative? What have you done differently than your predecessors? How/ Why?",
     "whatToLook": "Force them to look for alternatives, bring different profiles, etc."
   },
   {
+    "id": 415,
     "competency": "Innovation",
     "question": "Unfortunately, some solutions do not completely address some problems. Can you think of an interesting solution that you came up with that did not completely work? What was the situation, and what was your solution?",
     "whatToLook": "Look the other way"
   },
   {
+    "id": 416,
     "competency": "Innovation",
     "question": "Can you think of a time when your standard approach to problem solving did not work? What did you do?",
     "whatToLook": "Look the other way"
   },
   {
+    "id": 417,
     "competency": "Innovation",
     "question": "How have you changed your job since you started at _____________?",
     "whatToLook": "Look the other way"
   },
   {
+    "id": 418,
     "competency": "Innovation",
     "question": "What have you done that is out of the ordinary?",
     "whatToLook": "Look the other way"
   },
   {
+    "id": 419,
     "competency": "Integrity",
     "question": "Have you ever had anyone who worked with / for you do or say something that was misleading to the company or to a client? How did you handle it?",
     "whatToLook": "Focus on actions and outcomes.  => EI, communication skills, use of probing questions in discovery, intellectual horsepower"
   },
   {
+    "id": 420,
     "competency": "Integrity",
     "question": "Tell me about a time when you messed up with a sensitive topic / reveal a confidential information by mistake.",
     "whatToLook": ""
   },
   {
+    "id": 421,
     "competency": "Integrity",
     "question": "What has been your most difficult ethical dilemma? What were the issues? What did you do?",
     "whatToLook": ""
   },
   {
+    "id": 422,
     "competency": "Integrity",
     "question": "Tell me about a time that you realized you made a mistake?  How did you correct it?",
     "whatToLook": ""
   },
   {
+    "id": 423,
     "competency": "Integrity",
     "question": "Give me an example of a time when you were able to keep a confidence, even when you were tempted to break it or it would have been easier to break it.",
     "whatToLook": ""
   },
   {
+    "id": 424,
     "competency": "Integrity",
     "question": "Tell me about a specific time when you had to handle a tough problem that challenged fairness or ethical issues.",
     "whatToLook": ""
   },
   {
+    "id": 425,
     "competency": "Integrity",
     "question": "Give me examples of how you acted with integrity (walked your talk) in your job/work relationships.",
     "whatToLook": ""
   },
   {
+    "id": 426,
     "competency": "Integrity",
     "question": "Give me an example of a specific occasion in which you conformed to a policy with which you did not agree.",
     "whatToLook": ""
   },
   {
+    "id": 427,
     "competency": "Integrity",
     "question": "Tell me about a time when you gave the benefit of the doubt to someone and were glad that you did.",
     "whatToLook": ""
   },
   {
+    "id": 428,
     "competency": "Integrity",
     "question": "At times we are all faced with the situation of having to tell a customer, employee, boss, or someone else No, because we don't believe that Yes will be the right answer- even though it will be the easy answer. Tell me about a time you faced this kind of situation.",
     "whatToLook": ""
   },
   {
+    "id": 429,
     "competency": "Integrity",
     "question": "Tell me about a time when you took responsibility for mistake before anyone else even knew that you had made a mistake.",
     "whatToLook": ""
   },
   {
+    "id": 430,
     "competency": "Integrity",
     "question": "We are all faced with having to make a choice between two seemingly opposing things, both of which seemed like the right decision. Tell me about a time you were in this situation. What did you do? Why did you choose that \"right\" action?",
     "whatToLook": ""
   },
   {
+    "id": 431,
     "competency": "Integrity",
     "question": "Discuss a time when your integrity was challenged.",
     "whatToLook": ""
   },
   {
+    "id": 432,
     "competency": "Integrity",
     "question": "Tell me about a time when you experienced a Loss for doing what is right.",
     "whatToLook": ""
   },
   {
+    "id": 433,
     "competency": "Integrity",
     "question": "Tell me about a business situation when you felt honesty was inappropriate. Why?",
     "whatToLook": ""
   },
   {
+    "id": 434,
     "competency": "Integrity",
     "question": "Tell me about a time you saw someone at work stretch for bend the rules beyond what you felt was acceptable. What did you do? Why did you take that action?",
     "whatToLook": ""
   },
   {
+    "id": 435,
     "competency": "Integrity",
     "question": "Give me an example of the time you had to present the unvarnished truth to someone, but were able to do it in a positive and helpful manner.",
     "whatToLook": ""
   },
   {
+    "id": 436,
     "competency": "Integrity",
     "question": "We have all done things that we regretted after the fact. Give me an example of a time this happened to you. If you had it to do over again, what would you do differently?",
     "whatToLook": ""
   },
   {
+    "id": 437,
     "competency": "Integrity",
     "question": "Describe an occasion when you bent one of your core values or beliefs during a bad time.",
     "whatToLook": ""
   },
   {
+    "id": 438,
     "competency": "Integrity",
     "question": "Tell me about a time where you didn't practice what you preach.",
     "whatToLook": ""
   },
   {
+    "id": 439,
     "competency": "Integrity",
     "question": "Tell me about a time when you chose not to give someone the benefit or the doubt and wished, in hindsight, you had. ",
     "whatToLook": ""
   },
   {
+    "id": 440,
     "competency": "Interpersonal",
     "question": "Describe for me a situation when you had to build and maintain a new relationship in order to accomplish a business goal.",
     "whatToLook": ""
   },
   {
+    "id": 441,
     "competency": "Interpersonal",
     "question": "Building rapport with some people can be challenging. Give me an example of a time when you were able to build rapport quickly with someone in your organization, even though the situation was a difficult one.",
     "whatToLook": ""
   },
   {
+    "id": 442,
     "competency": "Interpersonal",
     "question": "Describe a time when you were able to \"read\" another person effectively and, as a result, were able to adjust your actions to meet this person's needs or values.",
     "whatToLook": ""
   },
   {
+    "id": 443,
     "competency": "Interpersonal",
     "question": "Tell me about a time when you had to deal with a  (rude, sarcastic, know-it-all, gossipy, negative, uncooperative, or finger-pointing) person. How did you handle the situation? Were you able to get along? How (or why not)?",
     "whatToLook": ""
   },
   {
+    "id": 444,
     "competency": "Interpersonal",
     "question": "Tell me about a situation where you had to work closely with a difficult coworker in order for you to successfully accomplish something. Did you make it work? How (or why not)?",
     "whatToLook": ""
   },
   {
+    "id": 445,
     "competency": "Interpersonal",
     "question": "Some people are more difficult than others to get along with. Tell me about your least successfully working relationship. Why do you think it was not a successful relationship?",
     "whatToLook": ""
   },
   {
+    "id": 446,
     "competency": "Interpersonal",
     "question": "Give me an example of a situation where you misread another person and ended up making the situation worse instead of better, at least initially.",
     "whatToLook": ""
   },
   {
+    "id": 447,
     "competency": "Interpersonal",
     "question": "Describe a project you were responsible for that required a lot of interaction with people over a long period of time.",
     "whatToLook": ""
   },
   {
+    "id": 448,
     "competency": "Interpersonal",
     "question": "Sometimes it is important to disagree with others in order to keep a mistake from being made. Tell me about a time when you were willing to disagree with another person in order to build a positive outcome.",
     "whatToLook": "Make sure you find out who the person was they disagreed with, what the outcome was, and whether the outcome was positive-or if not, what happened to keep it from being a positive outcome."
   },
   {
+    "id": 449,
     "competency": "Interpersonal",
     "question": "Describe for me a time when you had to-tactfully but forcefully-say things that another person or group did not want to hear.",
     "whatToLook": ""
   },
   {
+    "id": 450,
     "competency": "Learning",
     "question": "Tell me about a time when you had to learn something new in a short amount of time. What created the situation? What did you have to learn? How did you learn it?",
     "whatToLook": ""
   },
   {
+    "id": 451,
     "competency": "Learning",
     "question": "Describe a time when you had to learn something quickly to solve a problem.",
     "whatToLook": ""
   },
   {
+    "id": 452,
     "competency": "Learning",
     "question": "Give me an example of something difficult you had to learn that you did end up learning.",
     "whatToLook": ""
   },
   {
+    "id": 453,
     "competency": "Learning",
     "question": "Tell me about a time you had to do an unfamiliar task.",
     "whatToLook": ""
   },
   {
+    "id": 454,
     "competency": "Learning",
     "question": "Tell me about a time you needed to learn something quickly for a new task or project. How did you go about it?",
     "whatToLook": ""
   },
   {
+    "id": 455,
     "competency": "Learning",
     "question": "Give me an example of a situation at one of your previous employers when others knew more than you did. How did you close the gap?",
     "whatToLook": ""
   },
   {
+    "id": 456,
     "competency": "Learning",
     "question": "Walk me through the actions that you have taken to further your own professional development over the last (six months/year/five years).",
     "whatToLook": ""
   },
   {
+    "id": 457,
     "competency": "Learning",
     "question": "Tell me about a job that you had that required you to learn new things.",
     "whatToLook": ""
   },
   {
+    "id": 458,
     "competency": "Learning",
     "question": "We all have disappointing business experiences. Tell me about one you had and what you learned from it.",
     "whatToLook": ""
   },
   {
+    "id": 459,
     "competency": "Leadership",
     "question": "Describe a recent crisis you had to handle. What caused it? How did you resolve? Who helped you? How did you acknowledge their help?",
     "whatToLook": ""
   },
   {
+    "id": 460,
     "competency": "Leadership  ",
     "question": "Can you think of a time when you delayed a decision because you knew the organizational timing was not right?  Describe what you did.",
     "whatToLook": ""
   },
   {
+    "id": 461,
     "competency": "Leadership  ",
     "question": "How do you stay aware of other areas in your organization?  Why is this important?",
     "whatToLook": ""
   },
   {
+    "id": 462,
     "competency": "Leadership  ",
     "question": "Sell me the vision of your current company?",
     "whatToLook": "Makes audience believe in them and willing to work with them"
   },
   {
+    "id": 463,
     "competency": "Leadership  ",
     "question": "Based on your professional/technical expertise, what have you done to identify and act on potential improvement opportunities in your organization?",
     "whatToLook": ""
   },
   {
+    "id": 464,
     "competency": "Leadership  ",
     "question": "Did you ever make a risky decision? Why, and what happened?",
     "whatToLook": ""
   },
   {
+    "id": 465,
     "competency": "Leadership  ",
     "question": "Share an example of how you motivated employees or coworkers.",
     "whatToLook": ""
   },
   {
+    "id": 466,
     "competency": "Leadership  ",
     "question": "Tell me about the last project you lead, and what the results were.",
     "whatToLook": ""
   },
   {
+    "id": 467,
     "competency": "Leadership  ",
     "question": "Describe how you motivate others to get the results you want to achieve.",
     "whatToLook": ""
   },
   {
+    "id": 468,
     "competency": "Leadership  ",
     "question": "Tell me how the people you lead would describe your leadership style.",
     "whatToLook": ""
   },
   {
+    "id": 469,
     "competency": "Listening",
     "question": "Tell me about a time on your last job when you had to get a job done with only oral instructions to guide you.",
     "whatToLook": ""
   },
   {
+    "id": 470,
     "competency": "Listening",
     "question": "Give me an example of a time when you were a good listener.",
     "whatToLook": ""
   },
   {
+    "id": 471,
     "competency": "Listening",
     "question": "Sometimes people hear but don't listen. Tell me about a time when you misunderstood someone. Why do you think you misunderstood? How did you resolve the misunderstood?",
     "whatToLook": ""
   },
   {
+    "id": 472,
     "competency": "Listening",
     "question": "Tell me about a time where you lost your patience listening to someone who you believed did not know what she was talking about.",
     "whatToLook": ""
   },
   {
+    "id": 473,
     "competency": "Listening",
     "question": "Describe a time you heard someone out, even though you initially disagreed with the person, only to change your mind in the end.",
     "whatToLook": ""
   },
   {
+    "id": 474,
     "competency": "Listening",
     "question": "Give me an example of a time you had to deal with a highly emotional direct report.",
     "whatToLook": ""
   },
   {
+    "id": 475,
     "competency": "Listening",
     "question": "Tell me about a time where your active listening skills really paid off for you.",
     "whatToLook": ""
   },
   {
+    "id": 476,
     "competency": "Listening",
     "question": "Describe a work situation that required you to really listen to a person who was telling you about a personal/sensitive situation.",
     "whatToLook": ""
   },
   {
+    "id": 477,
     "competency": "Management",
     "question": "What type of communication approach have you found most helpful to communicate to team?",
     "whatToLook": "Listen for measuring, managing with transparency, taking corrective measures, looking for root cause on perf shortfalls."
   },
   {
+    "id": 478,
     "competency": "Management",
     "question": "At one time or another, we have all had some problems getting our point across when talking with others.  Give me some examples when this may have happened to you.",
     "whatToLook": ""
   },
   {
+    "id": 479,
     "competency": "Management",
     "question": "Tell me about the last person you managed who wasn't right for the role they were in (or for the company) and you had to let him/her go.",
     "whatToLook": "What were they key issues, what steps did you take to resolve?What was the result?"
   },
   {
+    "id": 480,
     "competency": "Management",
     "question": "Tell me about the highest potential person you've had the opportunity to work with. How did you support their development?",
     "whatToLook": "Listen for talent/capabilities mindset.Why does the leader feel this person was the highest potential?Steps he/she took to help individual grow, stretch assigments.  => Hire and Develop, develop others, Problem Solving"
   },
   {
+    "id": 481,
     "competency": "Management",
     "question": "Tell me about a time when you had to dismiss one of your team members.",
     "whatToLook": "What happened? What made you take this deicision? How did you communicate?  => Decision-making, communication skills"
   },
   {
+    "id": 482,
     "competency": "Management",
     "question": "Describe a time you were able to provide your boss with recognition for the work he performed.",
     "whatToLook": ""
   },
   {
+    "id": 483,
     "competency": "Management",
     "question": "Tell me about a time you wen the \"extra mile\" for a boss. Why did you do it?",
     "whatToLook": ""
   },
   {
+    "id": 484,
     "competency": "Management",
     "question": "Give me an example of something that you learned from your boss that has helped you in your career.",
     "whatToLook": ""
   },
   {
+    "id": 485,
     "competency": "Management",
     "question": "Tell me about a time your boss coached you to improve your performance or to learn something new.",
     "whatToLook": ""
   },
   {
+    "id": 486,
     "competency": "Management",
     "question": "Give me more examples of the kinds of things you have talked to your boss about rather than handling them yourself.",
     "whatToLook": ""
   },
   {
+    "id": 487,
     "competency": "Management",
     "question": "Tell me about the worst boss you've had. Whade made her the worst boss? How were you able to work with this person?",
     "whatToLook": ""
   },
   {
+    "id": 488,
     "competency": "Management",
     "question": "Tell me about the methods you use to keep informed of your employees' activities, achievements, progress toward objectives, etc.",
     "whatToLook": ""
   },
   {
+    "id": 489,
     "competency": "Management",
     "question": "Give me an example of a time you had to tell a direct report that you were dissatisfied with his work.",
     "whatToLook": ""
   },
   {
+    "id": 490,
     "competency": "Management",
     "question": "Describe your procedures for evaluating your direct reports.",
     "whatToLook": ""
   },
   {
+    "id": 491,
     "competency": "Management",
     "question": "Give me an example of a time you built a feedback loop into the work you delegated to a direct report.",
     "whatToLook": ""
   },
   {
+    "id": 492,
     "competency": "Management",
     "question": "Tell me about a major project you managed. How did you assign tasks to your direct reports? How did you monitor progress? How did you measure success along the way and in the end? ",
     "whatToLook": ""
   },
   {
+    "id": 493,
     "competency": "Management",
     "question": "Give me an example of a time you had to take disciplinary action with a direct report.",
     "whatToLook": ""
   },
   {
+    "id": 494,
     "competency": "Management",
     "question": "Tell me about a time where you were not as effective as you would have liked to have been in managing an employee's or a team's work.",
     "whatToLook": ""
   },
   {
+    "id": 495,
     "competency": "Management",
     "question": "Tell me about a time you needed to implement a new (or significantly raise an existing) performance standard for your team. What was the standard? Why did you need to raise it? How did you communicate the change? How did the affected employees respond when they were told? Were people able to meet the new performance standard? If not, why not?",
     "whatToLook": ""
   },
   {
+    "id": 496,
     "competency": "Motivation",
     "question": "Tell me about a time you were highly motivated and your example inspired others.",
     "whatToLook": ""
   },
   {
+    "id": 497,
     "competency": "Motivation",
     "question": "We all get assignments we really don't want to do. Give me an example of a time that happened to you and tell me how you motivated yourself to get it done.",
     "whatToLook": ""
   },
   {
+    "id": 498,
     "competency": "Motivation",
     "question": "Relate a scenario where you were responsible for motivating others. Were you able to do it? How?",
     "whatToLook": ""
   },
   {
+    "id": 499,
     "competency": "Motivation",
     "question": "Give me an example of a time of low morale where you were able to motivate another person or group to achieve something that they weren't really motivated to achieve.",
     "whatToLook": ""
   },
   {
+    "id": 500,
     "competency": "Motivation",
     "question": "Tell me about a time when you provided your direct reports or a team with the things they needed to motivate themselves to an extraordinary accomplishment.",
     "whatToLook": ""
   },
   {
+    "id": 501,
     "competency": "Motivation",
     "question": "Tell me about a time when you were able to give an employee what she needed to maintain or regain her motivation.",
     "whatToLook": ""
   },
   {
+    "id": 502,
     "competency": "Motivation",
     "question": "Tell me about a time you had to handle a tough morale problem.",
     "whatToLook": ""
   },
   {
+    "id": 503,
     "competency": "Negotiation",
     "question": "Tell me about a time when you gained acceptance of an idea or project from your boss. How did you get this acceptance?",
     "whatToLook": ""
   },
   {
+    "id": 504,
     "competency": "Negotiation",
     "question": "Give me an example of an approach you used to sell an idea to an employee, peer, or someone higher in management.",
     "whatToLook": ""
   },
   {
+    "id": 505,
     "competency": "Negotiation",
     "question": "Describe for me a situation where two individuals or parties were at odds, and you helped negotiate a win-win solution.",
     "whatToLook": ""
   },
   {
+    "id": 506,
     "competency": "Negotiation",
     "question": "Tell me about a time you needed to get cooperation from someone in another department for you to be successful on a task or project.",
     "whatToLook": ""
   },
   {
+    "id": 507,
     "competency": "Negotiation",
     "question": "Tell me about the most important negotiation you have handled in the last couple of years.",
     "whatToLook": ""
   },
   {
+    "id": 508,
     "competency": "Negotiation",
     "question": "Tell me about a time that you were successful in a negotiation because you backed off of something that was part of the negotiation.",
     "whatToLook": ""
   },
   {
+    "id": 509,
     "competency": "Negotiation",
     "question": "Tell me about a time you were unsuccessful in a negotiation because you chose not to back off of something that was part of the negotiation.",
     "whatToLook": ""
   },
   {
+    "id": 510,
     "competency": "Negotiation",
     "question": "Give me an example of a time you were unhappy with the results of a negotiation you were involved in.",
     "whatToLook": ""
   },
   {
+    "id": 511,
     "competency": "Negotiation",
     "question": "Tell me about a time you won (lost) an important contract.",
     "whatToLook": ""
   },
   {
+    "id": 512,
     "competency": "Organization",
     "question": "How do you prioritize your day? How do you manage your inbox?",
     "whatToLook": "- To dos, tools, blocked slots in agenda  - Zero inbox, internal / external emails, bcc, reply all => look for specific method"
   },
   {
+    "id": 513,
     "competency": "Organization",
     "question": "Can you walk me through last week and tell me how you planned the week’s activities and how the schedule worked out?",
     "whatToLook": ""
   },
   {
+    "id": 514,
     "competency": "Organization",
     "question": "How often is your time schedule upset by unforeseen circumstances? What do you do then? Give me a recent example.",
     "whatToLook": ""
   },
   {
+    "id": 515,
     "competency": "Organization",
     "question": "Describe a typical day ... a typical week. ",
     "whatToLook": "Listen for planning"
   },
   {
+    "id": 516,
     "competency": "Organization",
     "question": "How you determined what constitutes top priorities in scheduling your time?  Give examples.",
     "whatToLook": ""
   },
   {
+    "id": 517,
     "competency": "Organization",
     "question": "Describe a situation that required things to all be done at the same time.  How did you handle it?  What was the result?",
     "whatToLook": ""
   },
   {
+    "id": 518,
     "competency": "Organization",
     "question": "Tell me about a project or initiative that you were responsible for delivering on your own. How did you plan and organize it?",
     "whatToLook": "Was it successful? If you had to do it again, what would you do differently?"
   },
   {
+    "id": 519,
     "competency": "Organization",
     "question": "Tell me about a time you had to handle multiple responsabilities. How did you organize the work you needed to do?",
     "whatToLook": ""
   },
   {
+    "id": 520,
     "competency": "Organization",
     "question": "Give me more examples of how you determine priorities in scheduling your time.",
     "whatToLook": ""
   },
   {
+    "id": 521,
     "competency": "Organization",
     "question": "With fax machines, e-mail, and other technology speeding up processes, time seems to be something we are always running low on. Describe some things you have done to organize your work in the past to meet the various time demands.",
     "whatToLook": ""
   },
   {
+    "id": 522,
     "competency": "Organization",
     "question": "Tell me about a time you were particularly effective in prioritizing tasks and completing a project on schedule.",
     "whatToLook": ""
   },
   {
+    "id": 523,
     "competency": "Organization",
     "question": "Tell me about one of your best accomplishments, including where the assignement came from, your plans in carrying out, how you eventually did carry it out, and any obstacles you overcame.",
     "whatToLook": ""
   },
   {
+    "id": 524,
     "competency": "Organization",
     "question": "Give me an example of a time when you had to juggle several important activities and projects in a lilmited amount of time. Did you stay on top of all of them? How?",
     "whatToLook": ""
   },
   {
+    "id": 525,
     "competency": "Organization",
     "question": "Describe how you have improved the organization of a system, process, or task in your current position.",
     "whatToLook": ""
   },
   {
+    "id": 526,
     "competency": "Organization",
     "question": "Tell me about a time you had multiple tasks or projects given to you all the same time and how you decided what to do when.",
     "whatToLook": ""
   },
   {
+    "id": 527,
     "competency": "Organization",
     "question": "Tell me about a time you got bogged down in the details of a project.",
     "whatToLook": ""
   },
   {
+    "id": 528,
     "competency": "Organization",
     "question": "Tell me about the last time you missed a deadline because you were not well organized.",
     "whatToLook": ""
   },
   {
+    "id": 529,
     "competency": "Organization Agility",
     "question": "Tell me about a time when you needed to accomplish something through an informal network.",
     "whatToLook": ""
   },
   {
+    "id": 530,
     "competency": "Organization Agility",
     "question": "Describe a time where your ability to understand an organization's culture helped you develop the relationships and partnerships you needed to accomplish something that had to be done.",
     "whatToLook": ""
   },
   {
+    "id": 531,
     "competency": "Organization Agility",
     "question": "Tell me about the organizational climate at your current (or most recent) employer and give me an example of how that climate made it difficult for you to successfully accomplish a goal or project.",
     "whatToLook": ""
   },
   {
+    "id": 532,
     "competency": "Organization Agility",
     "question": "Give me an example of a time when you ability to read an organization's culture enabled you to be successful at something.",
     "whatToLook": ""
   },
   {
+    "id": 533,
     "competency": "Organization Agility",
     "question": "Tell me about a time you were able to accomplish something that was important to you through the use of your informal network.",
     "whatToLook": ""
   },
   {
+    "id": 534,
     "competency": "Organization Agility",
     "question": "Give me an example of a time when, if you had taken more time to understand how your organization worked, you might have been more successful.",
     "whatToLook": ""
   },
   {
+    "id": 535,
     "competency": "Organization Agility",
     "question": "Tell me about a time when you misread an organization's culture.",
     "whatToLook": ""
   },
   {
+    "id": 536,
     "competency": "Organization Agility",
     "question": "Give me an example of a time where, had you understood the reasoning behind a key policy, practice, or procedure, you would have done something differently.",
     "whatToLook": ""
   },
   {
+    "id": 537,
     "competency": "Partnering",
     "question": "Describe for me a time you developed and maintained (or strengthened) a relationship with a person or group inside your organization. Why did you develop the relationship? How did you develop it? What did you do to maintain/strengthen it?",
     "whatToLook": ""
   },
   {
+    "id": 538,
     "competency": "Partnering",
     "question": "Give me an example of a time you developed and maintained (or strengthened) a realtionship with a person or group outside the organization. Why did you develop the relationship? How did you develop it? What did you do to maintain/strength it?",
     "whatToLook": ""
   },
   {
+    "id": 539,
     "competency": "Partnering",
     "question": "Most things we do have an impact on others-whether we realize it or not. Tell me about a time you realized that what you would be working on could have a far-reaching impact, and you sought out relevant/appropriate people to gather their concerns and perspective before you proceeded with the task.",
     "whatToLook": ""
   },
   {
+    "id": 540,
     "competency": "Partnering",
     "question": "Tell me about a time you got involved in a cross-functional activity simply to develop a better working relationship with those involved in the activity.",
     "whatToLook": ""
   },
   {
+    "id": 541,
     "competency": "Partnering",
     "question": "Give me an example of when you wish you would have spent some time looking for common ground with stakeholders before you took a particular action.",
     "whatToLook": ""
   },
   {
+    "id": 542,
     "competency": "Partnering",
     "question": "Describe for me a time when you might have been more successful at something had you taken the time to clarify the expectations in a working relationships.",
     "whatToLook": ""
   },
   {
+    "id": 543,
     "competency": "Partnering",
     "question": "Tell me about a time that you failed to put in the required effort to maintain an internal or external working relationship.",
     "whatToLook": ""
   },
   {
+    "id": 544,
     "competency": "Patience",
     "question": "Tell me about a time where you lost your patience listening to someone who you believed did not know what she was talking about.",
     "whatToLook": ""
   },
   {
+    "id": 545,
     "competency": "Patience",
     "question": "Give me an example of a time where you felt that a process was getting in your way of getting something done.",
     "whatToLook": ""
   },
   {
+    "id": 546,
     "competency": "Patience",
     "question": "Describe a process or procedure that guides your actions, but for which you have little patience.",
     "whatToLook": ""
   },
   {
+    "id": 547,
     "competency": "Patience",
     "question": "Tell me about a time when you failed to gather sufficient information before acting.",
     "whatToLook": ""
   },
   {
+    "id": 548,
     "competency": "Patience",
     "question": "Give me an example of a time that you misjudged a person or data.",
     "whatToLook": ""
   },
   {
+    "id": 549,
     "competency": "Patience",
     "question": "Give me an example of a specific occasion when you conformed to a policy with which you did not agree. Why did you comply? What would have been the consequences of noncompliance?",
     "whatToLook": ""
   },
   {
+    "id": 550,
     "competency": "Patience",
     "question": "Tell me about about the biggest error in judgment you made in your current position. Why did you make the error? How did you correct it?",
     "whatToLook": ""
   },
   {
+    "id": 551,
     "competency": "Peer relations",
     "question": "Describe a time you were able to provide a peer or higher-level management person with recognition for the work she performed.",
     "whatToLook": ""
   },
   {
+    "id": 552,
     "competency": "Peer relations",
     "question": "Give me an example of a time where you had a disagreement with one of your peers, but were able to find common ground and solve the problem.",
     "whatToLook": ""
   },
   {
+    "id": 553,
     "competency": "Peer relations",
     "question": "Tell me about a time you needed to gain the trust and support of one of your peers in order to be successful on something.",
     "whatToLook": ""
   },
   {
+    "id": 554,
     "competency": "Peer relations",
     "question": "Describe a time you had to give candid feedback to one of your peers.",
     "whatToLook": ""
   },
   {
+    "id": 555,
     "competency": "Peer relations",
     "question": "Give me an example of a time you were a team player in a project with your peers.",
     "whatToLook": ""
   },
   {
+    "id": 556,
     "competency": "Peer relations",
     "question": "Tell me about a time you had to deal with a coworker who was very upset.",
     "whatToLook": ""
   },
   {
+    "id": 557,
     "competency": "Performance",
     "question": "Tell me about a time when your team was falling short on results. What was the deficit and what actions did you take?",
     "whatToLook": "Probe on how actions impacted situation."
   },
   {
+    "id": 558,
     "competency": "Performance",
     "question": "In what way has your department contributed to the organization’s success?",
     "whatToLook": ""
   },
   {
+    "id": 559,
     "competency": "Performance",
     "question": "In your last three roles, how did you rank relatively to your peers?",
     "whatToLook": "Looking for awareness, honesty, openness, record of performance and steps taken for any shortfalls & explanations for over performance"
   },
   {
+    "id": 560,
     "competency": "Performance",
     "question": "What are the standards of success in your job, what have you done to meet those standards?",
     "whatToLook": ""
   },
   {
+    "id": 561,
     "competency": "Performance",
     "question": "Give me some examples of the most complex or difficult assignments you have had to work on.  How did it work out?",
     "whatToLook": ""
   },
   {
+    "id": 562,
     "competency": "Performance",
     "question": "In your position how do you define doing good work?  Can you give me an example?",
     "whatToLook": ""
   },
   {
+    "id": 563,
     "competency": "Perseverance",
     "question": "Tell me about a time when you stayed with an idea or project for longer than anyone expected you to.",
     "whatToLook": ""
   },
   {
+    "id": 564,
     "competency": "Perseverance",
     "question": "Tell me about some of the obstacles you have had to overcome to reach your present position.",
     "whatToLook": ""
   },
   {
+    "id": 565,
     "competency": "Perseverance",
     "question": "Tell me about a time when you had to finish a job even though everyone else had given up.",
     "whatToLook": ""
   },
   {
+    "id": 566,
     "competency": "Perseverance",
     "question": "Tell me about a time you encountered significant resistance or a major setback on a project you were working on, but managed to work through it anyway.",
     "whatToLook": ""
   },
   {
+    "id": 567,
     "competency": "Perseverance",
     "question": "Describe a time when you were asked to complete a difficult task or project where the odds were against you. Were you successful? What did you learn from the experience?",
     "whatToLook": ""
   },
   {
+    "id": 568,
     "competency": "Perseverance",
     "question": "All jobs have unpleasant tasks. Tell me about the most unpleasant tasks you were required to do at work. Why or why weren't you successful in getting it done?",
     "whatToLook": ""
   },
   {
+    "id": 569,
     "competency": "Perseverance",
     "question": "Tell me about a really tough day that you had recently and what you did to get through it.",
     "whatToLook": ""
   },
   {
+    "id": 570,
     "competency": "Perseverance",
     "question": "Describe a situation when you had to get a job done in spite of an unforeseen problem.",
     "whatToLook": ""
   },
   {
+    "id": 571,
     "competency": "Perseverance",
     "question": "Describe your most challenging project or situation and how you overcame the obstacles.",
     "whatToLook": ""
   },
   {
+    "id": 572,
     "competency": "Perseverance",
     "question": "Tell me about a time when you were unable intially to sell an idea to your boss, an employee, or a peer, and so you tried again. What did you do differently the second or third time?",
     "whatToLook": ""
   },
   {
+    "id": 573,
     "competency": "Perseverance",
     "question": "Give me an example of a time that you gave up on something before you finished. Why did you give up?",
     "whatToLook": ""
   },
   {
+    "id": 574,
     "competency": "Perseverance",
     "question": "Give me an example of a time when you tried to accomplish something and failed. Why did you fail? If you had it to do over again, what would you do differently?",
     "whatToLook": ""
   },
   {
+    "id": 575,
     "competency": "Personal Growth",
     "question": "Think about a time when setting a positive example hd a highly beneficial impact on people you worked with. How did you determine that a strong example was needed? What did you do? What was the effect on the people?",
     "whatToLook": ""
   },
   {
+    "id": 576,
     "competency": "Personal Growth",
     "question": "Tell me the one thing about you as an employee that you hope your current or last boss doesn't tell me during a reference call.",
     "whatToLook": ""
   },
   {
+    "id": 577,
     "competency": "Personal Growth",
     "question": "Tell me about a time when you when your were not pleased with (or were disappointed in) your performance. What did you do about it?",
     "whatToLook": ""
   },
   {
+    "id": 578,
     "competency": "Personal Growth",
     "question": "Tell me about a time when one of your weaknesses got the better of you.",
     "whatToLook": ""
   },
   {
+    "id": 579,
     "competency": "Personal Growth",
     "question": "Give me an example of a time that you used one of your strengths to help another person or team succeed.",
     "whatToLook": ""
   },
   {
+    "id": 580,
     "competency": "Personal Growth",
     "question": "Describe a work situation that brought out the worst in you. Why did it bring out the worst in you? What did you learn?",
     "whatToLook": ""
   },
   {
+    "id": 581,
     "competency": "Personal Growth",
     "question": "Tell me about something you did in your (last/current) position of which you are particularly proud.",
     "whatToLook": ""
   },
   {
+    "id": 582,
     "competency": "Personal Growth",
     "question": "Give me an example of a time that you failed at something (or made a mistake) and learned. What did you learn? How did you apply that learning?",
     "whatToLook": ""
   },
   {
+    "id": 583,
     "competency": "Personal Growth",
     "question": "Describe for me your biggest error in judgment or failure in your (current or last) position. Why did you make it? How did you correct the problem?",
     "whatToLook": ""
   },
   {
+    "id": 584,
     "competency": "Personal Growth",
     "question": "Tell me about a time when you were asked to complete a difficult assignement even though the odds were against you. What did you learn from that experience?",
     "whatToLook": ""
   },
   {
+    "id": 585,
     "competency": "Personal Growth",
     "question": "Give me an example of a disappointment you had to handle in the past year. How did you cope with it?",
     "whatToLook": ""
   },
   {
+    "id": 586,
     "competency": "Personal Growth",
     "question": "We all have weaknesses that can interfere with our success. Tell me about one of yours and how you overcame it to be successful on a specific task or project.",
     "whatToLook": ""
   },
   {
+    "id": 587,
     "competency": "Personal Growth",
     "question": "Give me an example of something that you have done in the past to improve yourself.",
     "whatToLook": ""
   },
   {
+    "id": 588,
     "competency": "Personal Growth",
     "question": "Describe a situation in which you received constructive feedback about your work. What was the feedback about? What was your assessment of the feedback? What did you do with the information you received? What changes did you make?",
     "whatToLook": ""
   },
   {
+    "id": 589,
     "competency": "Personal Growth",
     "question": "Tell me about a time when you had to learn something new or difficult in a short amount of time. What created the situation? What did you have to learn? How did you learn it?",
     "whatToLook": ""
   },
   {
+    "id": 590,
     "competency": "Personal Growth",
     "question": "Tell me about a time you had to do an unfamiliar task.",
     "whatToLook": ""
   },
   {
+    "id": 591,
     "competency": "Personal Growth",
     "question": "Give me an example of a situation when others knew more than you did. How did you close the gap?",
     "whatToLook": ""
   },
   {
+    "id": 592,
     "competency": "Personal Growth",
     "question": "Tell me about about something specific you did to develop yourself that distinguished you from others.",
     "whatToLook": ""
   },
   {
+    "id": 593,
     "competency": "Personal Growth",
     "question": "Describe a time when you were not very satisfied or pleased with your performance. What did you do about it?",
     "whatToLook": ""
   },
   {
+    "id": 594,
     "competency": "Personal Growth",
     "question": "Tell me about a time when you were able to treat a negative experience as a learning opportunity.",
     "whatToLook": ""
   },
   {
+    "id": 595,
     "competency": "Personal Growth",
     "question": "Tell me about a work-related decision you made or a situation you handled where, if you had it to do over again, you would do something different.",
     "whatToLook": ""
   },
   {
+    "id": 596,
     "competency": "Personal Growth",
     "question": "Tell me about a time you received constructive feedback from a boss or coworker that you took to heart and did something about.",
     "whatToLook": ""
   },
   {
+    "id": 597,
     "competency": "Personal Growth",
     "question": "Describe for me a time when you were disappointed in your performance.",
     "whatToLook": ""
   },
   {
+    "id": 598,
     "competency": "Perspective",
     "question": "Tell me about a time where your ability to (think globally/broadly/strategically, or look at the big picture) stopped you or someone else from doing something that would have been a mistake.",
     "whatToLook": ""
   },
   {
+    "id": 599,
     "competency": "Perspective",
     "question": "Tell me about a time you had tunnel vision when looking at a project, issue, or problem.",
     "whatToLook": ""
   },
   {
+    "id": 600,
     "competency": "Perspective",
     "question": "Give me an example of a time where you were able to pose a variety of future scenarios to ensure that the proper course of action was taken.",
     "whatToLook": ""
   },
   {
+    "id": 601,
     "competency": "Perspective",
     "question": "Describe a time for me when you were able to solve a business problem or challenge by applying something that you learned through a personal or business interest of yours.",
     "whatToLook": ""
   },
   {
+    "id": 602,
     "competency": "Perspective",
     "question": "Tell me about a time when your ability to explore \"what if ....\" scenarios enabled you to address a significant/major problem from occuring.",
     "whatToLook": ""
   },
   {
+    "id": 603,
     "competency": "Planning",
     "question": "Give me an example of a change you saw coming and how you planned for that change.",
     "whatToLook": ""
   },
   {
+    "id": 604,
     "competency": "Planning",
     "question": "Give me an example of an important goal that you had set for your team and the team's success in reaching it.",
     "whatToLook": ""
   },
   {
+    "id": 605,
     "competency": "Planning",
     "question": "Give me an example of a time you had a lot of tasks put on your plate all at one. How did you decide what tasks to do and when to do them?",
     "whatToLook": ""
   },
   {
+    "id": 606,
     "competency": "Planning",
     "question": "Tell me about a big project you had to plan for work.",
     "whatToLook": ""
   },
   {
+    "id": 607,
     "competency": "Planning",
     "question": "Tell me about your current top priorities. How did you determine that they should be your top priorities?",
     "whatToLook": ""
   },
   {
+    "id": 608,
     "competency": "Planning",
     "question": "Give me an example of a time when you were effective in doing away with the \"constant emergencies\" and \"surprises\" in your work environment.",
     "whatToLook": ""
   },
   {
+    "id": 609,
     "competency": "Planning",
     "question": "Tell me about a time when you had too many things to do and you were required to prioritize your tasks.",
     "whatToLook": ""
   },
   {
+    "id": 610,
     "competency": "Planning",
     "question": "Give me an example of a time when your schedule was suddenly interrupted and your plans for the day completely changed.",
     "whatToLook": ""
   },
   {
+    "id": 611,
     "competency": "Planning",
     "question": "Think about the assignments you completed over the past few months. Tell me about the one that required the greatest amount of effort with regard to planning and organizing.",
     "whatToLook": ""
   },
   {
+    "id": 612,
     "competency": "Planning",
     "question": "Describe a time when your plans didn't work out. What did you do to recover?",
     "whatToLook": ""
   },
   {
+    "id": 613,
     "competency": "Planning",
     "question": "Give me a specific example of a time when you did not meet a deadline. How did you handle this?",
     "whatToLook": ""
   },
   {
+    "id": 614,
     "competency": "Planning",
     "question": "Describe a time when your plan didn't work out. Why didn't it work? What did you do to recover? Were you successful then? If you had to do it over again, what would you do differently? What did you learn from this? How have you applied what you learned?",
     "whatToLook": ""
   },
   {
+    "id": 615,
     "competency": "Political",
     "question": "Describe a politically sensitive situation that you were in and how you handled it.",
     "whatToLook": ""
   },
   {
+    "id": 616,
     "competency": "Political",
     "question": "Tell me about a time that you consciously chose not to play corporate politics.",
     "whatToLook": ""
   },
   {
+    "id": 617,
     "competency": "Political",
     "question": "Give me an example of a complex political situation you were able to handle effectively and quietly, which, had you not handled it well, could have blown up.",
     "whatToLook": ""
   },
   {
+    "id": 618,
     "competency": "Political",
     "question": "Describe a time when you agreed to implement someone else's idea over your own. How did you approach the situation? How did you feel about it? Was it a successful implementation? Why/why not?",
     "whatToLook": ""
   },
   {
+    "id": 619,
     "competency": "Political",
     "question": "Describe a time when you were able to anticipate a land mine and plan your upcoming actions accordingly.",
     "whatToLook": ""
   },
   {
+    "id": 620,
     "competency": "Political",
     "question": "Tell me about a time your willingness to play politics made you successful.",
     "whatToLook": ""
   },
   {
+    "id": 621,
     "competency": "Political",
     "question": "Describe a time when politics at work affected your job. How did you handle the situation? Were you successful?",
     "whatToLook": ""
   },
   {
+    "id": 622,
     "competency": "Political",
     "question": "Give me an example of a time you used your political savvy to push something through for approval.",
     "whatToLook": ""
   },
   {
+    "id": 623,
     "competency": "Political",
     "question": "Tell me about a time that you unknowingly stepped on a political landmine. What contributed to this misstep? Was it resolved effectively? How?",
     "whatToLook": ""
   },
   {
+    "id": 624,
     "competency": "Political",
     "question": "Tell me about a time where you were unable to successfully navigate through a political situation.",
     "whatToLook": ""
   },
   {
+    "id": 625,
     "competency": "Political",
     "question": "Describe an instance when you had to think on your feet to extricate yourself from a difficult situation.",
     "whatToLook": ""
   },
   {
+    "id": 626,
     "competency": "Presentation",
     "question": "Tell me about a presentation you made to a large audience. What was the purpose? How did you prepare it?",
     "whatToLook": ""
   },
   {
+    "id": 627,
     "competency": "Presentation",
     "question": "Give me an example of a presentation you did for a small group that resulted in the group agreeing to do what you wanted.",
     "whatToLook": ""
   },
   {
+    "id": 628,
     "competency": "Presentation",
     "question": "Describe a situatiuon where, after a presentation, you were faced with a hostile questioner. What did you do? What were the results?",
     "whatToLook": ""
   },
   {
+    "id": 629,
     "competency": "Presentation",
     "question": "Give me an example of a time when a presentation you were making wasn't working and you were able to switch tactics to make it work. How did you know the presentation wasn't working?",
     "whatToLook": ""
   },
   {
+    "id": 630,
     "competency": "Presentation",
     "question": "Tell me about an oral presentation you made to a group within the last year. What was the most difficult aspect of the presentation?",
     "whatToLook": ""
   },
   {
+    "id": 631,
     "competency": "Presentation",
     "question": "Describe the most creative oral presentation you have had to make.",
     "whatToLook": ""
   },
   {
+    "id": 632,
     "competency": "Presentation",
     "question": "Describe the most significant presentation you have had to complete.",
     "whatToLook": ""
   },
   {
+    "id": 633,
     "competency": "Presentation",
     "question": "Tell me about a time you had to use your presentation skills to influence someone's opinion.",
     "whatToLook": ""
   },
   {
+    "id": 634,
     "competency": "Problem-solving",
     "question": "Give an example where you used logic to solve a problem.",
     "whatToLook": ""
   },
   {
+    "id": 635,
     "competency": "Problem-solving",
     "question": "Give an example of a goal you didn’t meet and how you handled it.",
     "whatToLook": ""
   },
   {
+    "id": 636,
     "competency": "Problem-solving",
     "question": "How have you handled a conflict with a peer?",
     "whatToLook": ""
   },
   {
+    "id": 637,
     "competency": "Problem-solving",
     "question": "How have you handled a conflict with your manager?",
     "whatToLook": ""
   },
   {
+    "id": 638,
     "competency": "Problem-solving",
     "question": "What is the biggest mistake you’ve made at work, and how did you handle it?",
     "whatToLook": ""
   },
   {
+    "id": 639,
     "competency": "Problem-solving",
     "question": "Tell me about a time when you completed a project with very limited resources.",
     "whatToLook": ""
   },
   {
+    "id": 640,
     "competency": "Problem-solving",
     "question": "Describe a process you created or improved, and the impact it had on your company.",
     "whatToLook": ""
   },
   {
+    "id": 641,
     "competency": "Problem-solving",
     "question": "Describe a problem situation where you had to seek out relevant information, define key issues, and decide on which steps to take to get the desired results.",
     "whatToLook": ""
   },
   {
+    "id": 642,
     "competency": "Problem-solving",
     "question": "Give me an example of a time when you used your fact-finding skills to solve a problem.",
     "whatToLook": ""
   },
   {
+    "id": 643,
     "competency": "Problem-solving",
     "question": "Tell me about a situation where the analysis that you performed was incorrect. If you had it to do over again, what would you do differently?",
     "whatToLook": ""
   },
   {
+    "id": 644,
     "competency": "Problem-solving",
     "question": "Tell me about a project that best demonstrates your analytical abilities.",
     "whatToLook": ""
   },
   {
+    "id": 645,
     "competency": "Problem-solving",
     "question": "We can sometimes identify a small problem and fix it before it becomes a major problem. Give me an example of how you have done this.",
     "whatToLook": ""
   },
   {
+    "id": 646,
     "competency": "Problem-solving",
     "question": "Give me an example of a time you identified a potential problem and resolved the situation before it became serious.",
     "whatToLook": ""
   },
   {
+    "id": 647,
     "competency": "Problem-solving",
     "question": "Describe a time you failed to anticipate a potential problem and develop preventative measures.",
     "whatToLook": ""
   },
   {
+    "id": 648,
     "competency": "Problem-solving",
     "question": "Give me an example of the most creative solution to a difficult problem you have ever come up with.",
     "whatToLook": ""
   },
   {
+    "id": 649,
     "competency": "Problem-solving",
     "question": "Tell me about a time you helped resolve a group problem. What caused the problem?",
     "whatToLook": ""
   },
   {
+    "id": 650,
     "competency": "Problem-solving",
     "question": "Tell me about the most difficult problem you've ever had to solve. What steps did you take to tackle it?",
     "whatToLook": ""
   },
   {
+    "id": 651,
     "competency": "Problem-solving",
     "question": "Solving a problem often necessitates evaluation of alternate solutions. Give me an example of a time when you actively defined several solutions to a single problem. ",
     "whatToLook": "Make sure they talk about the tools used-e.g., research, brainstorming-as well as how and why the used the tools."
   },
   {
+    "id": 652,
     "competency": "Problem-solving",
     "question": "Give me a specific example of a time when you used good jugment and logic in solving a problem.",
     "whatToLook": ""
   },
   {
+    "id": 653,
     "competency": "Problem-solving",
     "question": "Tell me about a stubborn or recurring problem you are facing in your current position. What have you done to solve it?",
     "whatToLook": ""
   },
   {
+    "id": 654,
     "competency": "Problem-solving",
     "question": "Tell me about a time you had to solve a problem with no rules, guidelines, or policies in place to guide you.",
     "whatToLook": ""
   },
   {
+    "id": 655,
     "competency": "Problem-solving",
     "question": "We all have particular problems we enjoy/dislike solving. Tell me about a problem that you enjoyed solving (or disliked having to solve). What, in particular, do you enjoy/dislike about solving this kind of problem?",
     "whatToLook": ""
   },
   {
+    "id": 656,
     "competency": "Problem-solving",
     "question": "Tell me about a difficult problem you solved that had a significant positive impact on all or part of the organization.",
     "whatToLook": ""
   },
   {
+    "id": 657,
     "competency": "Problem-solving",
     "question": "Tell me about a problem that got out of control before you discovered it and began working on a solution.",
     "whatToLook": ""
   },
   {
+    "id": 658,
     "competency": "Problem-solving",
     "question": "Tell me about a time you missed an obvious solution to a problem.",
     "whatToLook": ""
   },
   {
+    "id": 659,
     "competency": "Process",
     "question": "Tell me the process you used last year (or this year) to set your department goals. Were the goals accomplished?",
     "whatToLook": ""
   },
   {
+    "id": 660,
     "competency": "Process",
     "question": "Tell me about your system for controlling errors in your work.",
     "whatToLook": ""
   },
   {
+    "id": 661,
     "competency": "Process",
     "question": "Walk me through a recent project or assignment you completed and tell me the process you used to ensure it was complete and accurate.",
     "whatToLook": ""
   },
   {
+    "id": 662,
     "competency": "Process",
     "question": "Give me an example of a situation where you improved a work process.",
     "whatToLook": ""
   },
   {
+    "id": 663,
     "competency": "Process",
     "question": "Tell me about a time when you took a complicated, technical process and explained it to people who were not familiar with the process.",
     "whatToLook": ""
   },
   {
+    "id": 664,
     "competency": "Process",
     "question": "Tell me about a significant project that you managed, focusing on how you made sure that everything was getting done correctly and properly.",
     "whatToLook": ""
   },
   {
+    "id": 665,
     "competency": "Process",
     "question": "Give me an example of a time you saw an opportunity to integrate two or more processes or procedures to make a more efficient and effective single process or procedure.",
     "whatToLook": ""
   },
   {
+    "id": 666,
     "competency": "Process",
     "question": "Tell me about a situation where you found a way to get the job done faster and better at a lower cost.",
     "whatToLook": ""
   },
   {
+    "id": 667,
     "competency": "Resource",
     "question": "We all have more on our plate than we have time to get done. Tell me about a time where your ability to accurately scope out time requirements for tasks and projects made you successful.",
     "whatToLook": ""
   },
   {
+    "id": 668,
     "competency": "Resource",
     "question": "Tell me about a time where you prepared a budget larger than any you had ever done before. Did you meet the budget? What was the variance? Did the budget need to be altered (if so, how and why)?",
     "whatToLook": ""
   },
   {
+    "id": 669,
     "competency": "Resource",
     "question": "Describe a time you had to manage a project where the acquisition, storage, and use of materials were critical factors (e.g., the product had a short shelf life).",
     "whatToLook": ""
   },
   {
+    "id": 670,
     "competency": "Resource",
     "question": "Give me an example of a time where you underestimated a resource you needed to get a task or project done, but managed to overcome the shortage and be successful.",
     "whatToLook": ""
   },
   {
+    "id": 671,
     "competency": "Resource",
     "question": "Tell me about a time where you were off-target on assessing the human resources you needed for a project. Why were you off-target?",
     "whatToLook": ""
   },
   {
+    "id": 672,
     "competency": "Resource",
     "question": "Describe a time you had to deal with a particularly difficult resource management issue regarding people/material/assets.",
     "whatToLook": ""
   },
   {
+    "id": 673,
     "competency": "Resource",
     "question": "We have all faced situations where the resources we needed to be successful were not within our span of control. Tell me about a project or goal where this was true for you.",
     "whatToLook": ""
   },
   {
+    "id": 674,
     "competency": "Resource",
     "question": "Sometimes the only way people or departments can accomplish their individual goals is to form a partnership. Tell me about a time where, had you not partnered, your individual goals might not have been achieved.",
     "whatToLook": ""
   },
   {
+    "id": 675,
     "competency": "Respect",
     "question": "Tell me about a time when you had to resolve a difference of opinion with a coworker/customer/supervisor. How do you feel you showed respect for that person?",
     "whatToLook": ""
   },
   {
+    "id": 676,
     "competency": "Respect",
     "question": "Tell me about a time when you needed to give feedback to an employee with emotional or sensitive problems.",
     "whatToLook": ""
   },
   {
+    "id": 677,
     "competency": "Respect",
     "question": "Describe the way you handled a specific problem involving others with differing values, ideas, and beliefs in your current/previous job.",
     "whatToLook": ""
   },
   {
+    "id": 678,
     "competency": "Respect",
     "question": "Describe a work situation that required you to really listen to and display compassion for a coworker/employee who was telling you about a personal or sensitive issue.",
     "whatToLook": ""
   },
   {
+    "id": 679,
     "competency": "Respect",
     "question": "Give me an example of a time when you disagreed with the views of your direct reports.",
     "whatToLook": ""
   },
   {
+    "id": 680,
     "competency": "Respect",
     "question": "Tell me about a time you had to handle a highly emotional person.",
     "whatToLook": ""
   },
   {
+    "id": 681,
     "competency": "Respect",
     "question": "Describe for me a time when you saw a situation very differently from someone else and disagreed strongly with him, but still respected his viewpoint.",
     "whatToLook": ""
   },
   {
+    "id": 682,
     "competency": "Results Orientation",
     "question": "Give me an example of an important goal you have had and about your success in achieving it.",
     "whatToLook": ""
   },
   {
+    "id": 683,
     "competency": "Results Orientation",
     "question": "Describe a time when, against all odds, you were able to get a project or task completed within the defined parameters.",
     "whatToLook": ""
   },
   {
+    "id": 684,
     "competency": "Results Orientation",
     "question": "Tell me about a time when you were asked to complete a difficult assignement and the odds were against you. What did you learn from the experience?",
     "whatToLook": ""
   },
   {
+    "id": 685,
     "competency": "Results Orientation",
     "question": "Tell me about a time you had to pay close attention to the tiny details in order to be successful.",
     "whatToLook": ""
   },
   {
+    "id": 686,
     "competency": "Results Orientation",
     "question": "Being successful takes more than luck-it also takes hard work. Tell me about a time when you had to work work very hard and make personal sacrifice to help your organization/department/team reach its goals.",
     "whatToLook": ""
   },
   {
+    "id": 687,
     "competency": "Results Orientation",
     "question": "Give me an example of a time you were unable to complete a project on time.",
     "whatToLook": ""
   },
   {
+    "id": 688,
     "competency": "Results Orientation",
     "question": "Tell me about a time where you did not achieve the results you should have had or in the required timeframe.",
     "whatToLook": ""
   },
   {
+    "id": 689,
     "competency": "Results Orientation",
     "question": "Describe a situation where, due to time and resource constraints, you submitted a report or completed a project where the quality was compromised.",
     "whatToLook": ""
   },
   {
+    "id": 690,
     "competency": "Risk Taking",
     "question": "Tell me about a time where, with an internal or external customer, you had to try something you've never done before.",
     "whatToLook": ""
   },
   {
+    "id": 691,
     "competency": "Risk Taking",
     "question": "Give me an example of a time you felt that it was necessary or appropriate to circumvent company policy to meet a customer's needs.",
     "whatToLook": ""
   },
   {
+    "id": 692,
     "competency": "Risk Taking",
     "question": "Describe for me the riskiest business decision you have ever made. Why did you make the decision? Were you successful and why or why not?",
     "whatToLook": ""
   },
   {
+    "id": 693,
     "competency": "Risk Taking",
     "question": "Describe a work-related risk you took that, in hinsight, you wish you had not taken.",
     "whatToLook": ""
   },
   {
+    "id": 694,
     "competency": "Risk Taking",
     "question": "Tell me about a time when you created a new process or program that was considered risky. What was the situation and what did you do?",
     "whatToLook": ""
   },
   {
+    "id": 695,
     "competency": "Risk Taking",
     "question": "Give me an example of a time when there was decision to be made and procedures or policies were not in place. What was the outcome?",
     "whatToLook": ""
   },
   {
+    "id": 696,
     "competency": "Risk Taking",
     "question": "Tell me about the greatest business risk you have taken.",
     "whatToLook": ""
   },
   {
+    "id": 697,
     "competency": "Risk Taking",
     "question": "Tell me about a time you had a chance to take a risk, but decided that the risk was too high.",
     "whatToLook": ""
   },
   {
+    "id": 698,
     "competency": "Risk Taking",
     "question": "Tell me about a time you took a risk and failed.",
     "whatToLook": ""
   },
   {
+    "id": 699,
     "competency": "Safety in the Workplace",
     "question": "In many situations, employees are required to wear protective equipment, and may find it uncomfortable, cumbersome, or inconvenient to wear. Tell me about a time this was true for you.",
     "whatToLook": "Make sure you find out what the equipment was, why, why the person did or didn't wear the equipment, and the factors that contributed to the decision."
   },
   {
+    "id": 700,
     "competency": "Safety in the Workplace",
     "question": "Safety is not a one-person job. Give me an example of a time you were able to improve safety only because you chose to involve others in making the improvement.",
     "whatToLook": ""
   },
   {
+    "id": 701,
     "competency": "Safety in the Workplace",
     "question": "Tell me about the most challenging safety issue you have had to deal with. What, specifically, made it challenging?",
     "whatToLook": ""
   },
   {
+    "id": 702,
     "competency": "Safety in the Workplace",
     "question": "Describe a time when you identified a potential safety issue and addressed it before a problem occurred.",
     "whatToLook": ""
   },
   {
+    "id": 703,
     "competency": "Safety in the Workplace",
     "question": "Tell me about a way you have made your workplace a safer place for people to work.",
     "whatToLook": ""
   },
   {
+    "id": 704,
     "competency": "Stewardship",
     "question": "Tell me about a collaborative effort you headed (were involved in between your organization and the community.",
     "whatToLook": ""
   },
   {
+    "id": 705,
     "competency": "Stewardship",
     "question": "Give me an example of how your understanding of a community issue helped you address a business problem, issue, or concern.",
     "whatToLook": ""
   },
   {
+    "id": 706,
     "competency": "Stewardship",
     "question": "Describe for me something you were involved with in the community through which both the community and businesses located in the community benefited.",
     "whatToLook": ""
   },
   {
+    "id": 707,
     "competency": "Stewardship",
     "question": "Tell me about a way that you have championed the concept of corporate citizenship/stewardship within your team/department/organization.",
     "whatToLook": ""
   },
   {
+    "id": 708,
     "competency": "Strategic Thinking",
     "question": "Tell me about a time when your industry knowledge alerted you to an upcoming challenge or opportunity, and where you were able to develop a proactive strategy to deal with it.",
     "whatToLook": ""
   },
   {
+    "id": 709,
     "competency": "Strategic Thinking",
     "question": "Give me an example of strategy you developed to achieve a long or short-term business need, goal, or objective.",
     "whatToLook": ""
   },
   {
+    "id": 710,
     "competency": "Strategic Thinking",
     "question": "Give me an example of a time where, by using your understanding of the strenghts and weaknesses of your competitors, you were able to gain a competitive advantage in the marketplace.",
     "whatToLook": ""
   },
   {
+    "id": 711,
     "competency": "Strategic Thinking",
     "question": "Tell me about a strategic initiative or opportunity you identified and pursued.",
     "whatToLook": ""
   },
   {
+    "id": 712,
     "competency": "Strategic Thinking",
     "question": "Give me an example of a time you failed to align the strategic priorities of your department/team with the strategic priorities of the organization.",
     "whatToLook": ""
   },
   {
+    "id": 713,
     "competency": "Strategic Thinking",
     "question": "Tell me about a time where your ability to keep your eyes on the future proved to be a benefit to your organization/department/team.",
     "whatToLook": ""
   },
   {
+    "id": 714,
     "competency": "Stress",
     "question": "Tell me about a time you were faced with stressors at work that tested your coping skills.",
     "whatToLook": ""
   },
   {
+    "id": 715,
     "competency": "Stress",
     "question": "Give me an example of a time you had to juggle a number of projects and priorities. What were they? How did you manage to juggle them?",
     "whatToLook": ""
   },
   {
+    "id": 716,
     "competency": "Stress",
     "question": "Describe for me a time when your team was under a fair amount of stress. What did you do to help them through this? Were you successful?",
     "whatToLook": ""
   },
   {
+    "id": 717,
     "competency": "Stress",
     "question": "Tell me about a time you did not handle a stressful situation well.",
     "whatToLook": ""
   },
   {
+    "id": 718,
     "competency": "Stress",
     "question": "Tell me about a time a deadline was moved up on you and how you handled that. Did you accomplish the task on time? How (or why not)?",
     "whatToLook": ""
   },
   {
+    "id": 719,
     "competency": "Stress",
     "question": "There are times we each feel overwhelmed with a task or project. Tell me about a time this happened to you.",
     "whatToLook": ""
   },
   {
+    "id": 720,
     "competency": "Stress",
     "question": "Describe a situation or time when someone or something really got under your skin.",
     "whatToLook": ""
   },
   {
+    "id": 721,
     "competency": "Stress",
     "question": "Tell me about a project that required you to work well under pressure.",
     "whatToLook": ""
   },
   {
+    "id": 722,
     "competency": "Structuration",
     "question": "Tell me about a time when you had to structure an activity / settle processes / implement new tooling.",
     "whatToLook": ""
   },
   {
+    "id": 723,
     "competency": "Structuration",
     "question": "What papers or documentation that you are currently preparing (or have recently prepared) are the most challenging and why?",
     "whatToLook": ""
   },
   {
+    "id": 724,
     "competency": "Systems Management",
     "question": "Tell me about a time where your understanding of a (social/organizational/technological) system helped you be more successful than you would have been otherwise.",
     "whatToLook": ""
   },
   {
+    "id": 725,
     "competency": "Systems Management",
     "question": "Give me an example of a time when you picked up on a business or industry trend or change and made appropriate changes within your company/department/team to respond to or take advantage of the opportunity.",
     "whatToLook": ""
   },
   {
+    "id": 726,
     "competency": "Systems Management",
     "question": "Describe a time where, had you been able to predict a business/industry occurence, you would have been able to make adjustments so that your company/department/team did not suffer from it.",
     "whatToLook": ""
   },
   {
+    "id": 727,
     "competency": "Systems Management",
     "question": "Tell me about a system you designed or improved. Why did you do it? What benefit resulted? Who was impacted by the design/improvement? How did they react?",
     "whatToLook": ""
   },
   {
+    "id": 728,
     "competency": "Systems Thinking",
     "question": "Give me an example when your ability to look at problems and issues from a big picture approach served you as well.",
     "whatToLook": ""
   },
   {
+    "id": 729,
     "competency": "Systems Thinking",
     "question": "Tell me about the most significant project you have worked on in which it was crucial to keep track of details while still managing the \"big picture\". How did you make sure the work got done? How did you keep focused on the overall goal while still managing all of the specific parts? ",
     "whatToLook": ""
   },
   {
+    "id": 730,
     "competency": "Systems Thinking",
     "question": "Tell me about a time when you failed to look at a problem or issue from a big picture perspective and paid the price for that.",
     "whatToLook": ""
   },
   {
+    "id": 731,
     "competency": "Systems Thinking",
     "question": "Describe for me a time when your ability to find relationships between things inside and/or outside the organization helped you be more effective.",
     "whatToLook": ""
   },
   {
+    "id": 732,
     "competency": "Systems Thinking",
     "question": "Give me an example of a time you solved a problem in ways that adressed total system needs rather than just your immediate situation.",
     "whatToLook": ""
   },
   {
+    "id": 733,
     "competency": "Taking Charge",
     "question": "Tell me about a time when you had to convince your team to do something they didn't want to do. How did you do it?",
     "whatToLook": ""
   },
   {
+    "id": 734,
     "competency": "Taking Charge",
     "question": "Give me an example of when your staff reached a goal because they willingly followed your suggestions.",
     "whatToLook": ""
   },
   {
+    "id": 735,
     "competency": "Taking Charge",
     "question": "Give me a specific example of something you did that helped build enthusiasm in your staff.",
     "whatToLook": ""
   },
   {
+    "id": 736,
     "competency": "Taking Charge",
     "question": "Describe a time when you utilized your leadership ability to gain support for something that was initially strongly opposed by others.",
     "whatToLook": ""
   },
   {
+    "id": 737,
     "competency": "Taking Charge",
     "question": "Tell me about a time you found it necessary to tactfully, but forcefully, say things that others did not want to hear.",
     "whatToLook": ""
   },
   {
+    "id": 738,
     "competency": "Taking Charge",
     "question": "Tell me about a time when you had to take charge and start the ball rolling to get a job done. What were the ramifications if the job didn't get done? What did you do? How did it turn out?",
     "whatToLook": ""
   },
   {
+    "id": 739,
     "competency": "Taking Charge",
     "question": "Describe for me the most unpopular stand you have taken in your job.",
     "whatToLook": ""
   },
   {
+    "id": 740,
     "competency": "Teamwork",
     "question": "Describe an unpopular decision you made, and how you got it implemented.",
     "whatToLook": ""
   },
   {
+    "id": 741,
     "competency": "Teamwork",
     "question": "How do you deal with company policies you don’t agree with?",
     "whatToLook": ""
   },
   {
+    "id": 742,
     "competency": "Teamwork",
     "question": "Give an example of how you’ve worked on a team.",
     "whatToLook": ""
   },
   {
+    "id": 743,
     "competency": "Teamwork",
     "question": "Describe how you’ve handled a difficult situation with a team at work.",
     "whatToLook": ""
   },
   {
+    "id": 744,
     "competency": "Teamwork",
     "question": "Tell me about a time when you were in competition with a coworker.",
     "whatToLook": ""
   },
   {
+    "id": 745,
     "competency": "Teamwork",
     "question": "Describe a time when a coworker was not doing their share of the work, and how you handled it.",
     "whatToLook": ""
   },
   {
+    "id": 746,
     "competency": "Teamwork",
     "question": "Describe a time you led a team of people who didn't always see eye to eye. What did you do? Why did you choose to do that? How did it work out?",
     "whatToLook": ""
   },
   {
+    "id": 747,
     "competency": "Teamwork",
     "question": "Tell me about a time you were able to gain commitment from others to really work as a team.",
     "whatToLook": ""
   },
   {
+    "id": 748,
     "competency": "Teamwork",
     "question": "Provide an example of a time when it was critical that you establish an effective working relationship with an individual or group outside your department to complete an assignment or deliver a service.",
     "whatToLook": ""
   },
   {
+    "id": 749,
     "competency": "Teamwork",
     "question": "Tell me about a time you needed to get two groups or people to work together effectively, who historically had never done so.",
     "whatToLook": ""
   },
   {
+    "id": 750,
     "competency": "Teamwork",
     "question": "Give me an example of a time that your leadership transformed a group of people into an effective, healthy, productive team.",
     "whatToLook": ""
   },
   {
+    "id": 751,
     "competency": "Teamwork",
     "question": "Tell me about a time you led a team that had one or more unproductive/negative members. How did you find out about the unproductive member. What did you do? Why did you choose to do that? How did it work out?",
     "whatToLook": ""
   },
   {
+    "id": 752,
     "competency": "Teamwork",
     "question": "Give me an example of a time where you needed to get people who have very different work styles to work cooperatively on a project. Were you successful? Why/why not?",
     "whatToLook": ""
   },
   {
+    "id": 753,
     "competency": "Teamwork",
     "question": "Describe a time when you had to have coworkers with different work styles or ideas work together on a project. What, specifically, did you do to pull them together?",
     "whatToLook": ""
   },
   {
+    "id": 754,
     "competency": "Teamwork",
     "question": "Tell me about a time you recognized a team member for having made a valuable contribution to the team.",
     "whatToLook": ""
   },
   {
+    "id": 755,
     "competency": "Teamwork",
     "question": "Tell me about a time where, if it hadn't been for teamwork, your goal might not have been achieved.",
     "whatToLook": ""
   },
   {
+    "id": 756,
     "competency": "Teamwork",
     "question": "Describe a time when you were able to build team spirit in an environment of low morale.",
     "whatToLook": ""
   },
   {
+    "id": 757,
     "competency": "Teamwork",
     "question": "Tell me about a time you needed to lead an intact, project, or ad hoc team toward a goal that you, personally, did not completely support or believe in.",
     "whatToLook": ""
   },
   {
+    "id": 758,
     "competency": "Teamwork",
     "question": "Give me an example of a time you successfully built a project team from scratch. What was the project? How did you go about selecting team members? How did you get these individuals to work as a team? What was the hardest part of getting them to work as a team? Was the team successful on the project?",
     "whatToLook": ""
   },
   {
+    "id": 759,
     "competency": "Teamwork",
     "question": "Tell me about a time when you were able to provide your team with recognition for the work they performed.",
     "whatToLook": ""
   },
   {
+    "id": 760,
     "competency": "Teamwork",
     "question": "Give me an example of a time when you were less successful as a team leader than you would like to have been.",
     "whatToLook": ""
   },
   {
+    "id": 761,
     "competency": "Teamwork",
     "question": "Tell me about a time where, because you didn't effectively build your team, you were not able to accomplish a task/project within specifications. What happened? What did you learn? What would you do differently if you had it to do over again?",
     "whatToLook": ""
   },
   {
+    "id": 762,
     "competency": "Teamwork",
     "question": "Tell me about a time you worked as a team member on a team that had one or more unproductive members. What did you do? Why did you choose to do that? How did it work out?",
     "whatToLook": ""
   },
   {
+    "id": 763,
     "competency": "Teamwork",
     "question": "Give me an example of a time when others with whom you were working on a project disagreed with your idea.",
     "whatToLook": ""
   },
   {
+    "id": 764,
     "competency": "Teamwork",
     "question": "Describe a time when one of the members on your team did not complete (or wasn't doing) her fair share of the work.",
     "whatToLook": ""
   },
   {
+    "id": 765,
     "competency": "Teamwork",
     "question": "Tell me about a time when you helped others compromise for the good of the team. What was your role? What steps did you take?",
     "whatToLook": ""
   },
   {
+    "id": 766,
     "competency": "Teamwork",
     "question": "Tell me about a time when you helped others compromise for the good of the team. What was your role? What steps did you take?",
     "whatToLook": ""
   },
   {
+    "id": 767,
     "competency": "Teamwork",
     "question": "Tell me about a time when you were part of a team that did not get along or did not work well together. What happened?",
     "whatToLook": ""
   },
   {
+    "id": 768,
     "competency": "Teamwork",
     "question": "We've all been part of a work team or project team where there is one person who just rubs us the wrong way. Tell me about a time this happened to you. What did you do?",
     "whatToLook": ""
   },
   {
+    "id": 769,
     "competency": "Teamwork",
     "question": "Give me an example of when you worked cooperatively as a team member to accomplish an important goal. What was the goal or objective? What was your role in achieving this objective? To what extent did you interact with others on this project?",
     "whatToLook": ""
   },
   {
+    "id": 770,
     "competency": "Teamwork",
     "question": "Give me an example of a time where you were willing to compromise on something relatively important to you in order for the team you were a member of to proceed with a project.",
     "whatToLook": ""
   },
   {
+    "id": 771,
     "competency": "Teamwork",
     "question": "Tell me about a time you were recognized and rewarded for being a valuable team member.",
     "whatToLook": ""
   },
   {
+    "id": 772,
     "competency": "Teamwork",
     "question": "Give me an example of a time when you were not an effective team member.",
     "whatToLook": ""
   },
   {
+    "id": 773,
     "competency": "Teamwork",
     "question": "Describe a team experience you found disappointing. What, specifically, made it disappointing. What could you have done to change it from a disappointing to rewarding experience?",
     "whatToLook": ""
   },
   {
+    "id": 774,
     "competency": "Technology Management",
     "question": "Give me an example of a time when you were responsible for selecting a new or improved technology.",
     "whatToLook": ""
   },
   {
+    "id": 775,
     "competency": "Technology Management",
     "question": "Tell me about a time when you misinterpreted the intent or use of a piece of equipment.",
     "whatToLook": ""
   },
   {
+    "id": 776,
     "competency": "Technology Management",
     "question": "Describe a time when you applied a new piece of technology to an existing task or project. What benefits resulted from the technological application? How did you determine there would be a benefit?",
     "whatToLook": ""
   },
   {
+    "id": 777,
     "competency": "Technology Management",
     "question": "Give me an example of a time where you prevented, identified, or solved a problem with a piece of equipment.",
     "whatToLook": ""
   },
   {
+    "id": 778,
     "competency": "Technology Management",
     "question": "Tell me about a time you applied technology to improve a service, process, or productivity.",
     "whatToLook": ""
   },
   {
+    "id": 779,
     "competency": "Time management",
     "question": "Give me an example of a decision you postponed and explain why you postponed it",
     "whatToLook": ""
   },
   {
+    "id": 780,
     "competency": "Time management",
     "question": "When you work on multiple projects, how do you prioritize?",
     "whatToLook": ""
   },
   {
+    "id": 781,
     "competency": "Time management",
     "question": "What do you do when your schedule is interrupted? Give an example of how you handle it.",
     "whatToLook": ""
   },
   {
+    "id": 782,
     "competency": "Time management",
     "question": "Describe a time when you did not meet a deadline, and what the outcome was.",
     "whatToLook": ""
   },
   {
+    "id": 783,
     "competency": "Time management",
     "question": "Tell me how the urgent demands of your job don’t overshadow the important ones.",
     "whatToLook": ""
   },
   {
+    "id": 784,
     "competency": "Time management",
     "question": "Give me an example of how you make best use of your time",
     "whatToLook": ""
   },
   {
+    "id": 785,
     "competency": "Time management",
     "question": "Tell me about a time you achieved a great deal in a short amount of time.",
     "whatToLook": ""
   },
   {
+    "id": 786,
     "competency": "Time management",
     "question": "Give me an example of a time you were unable to complete a project on schedule despite your best efforts.",
     "whatToLook": ""
   },
   {
+    "id": 787,
     "competency": "Time management",
     "question": "Tell me about a time you had to complete multiple tasks/projects in a tight timeframe.",
     "whatToLook": ""
   },
   {
+    "id": 788,
     "competency": "Time management",
     "question": "Tell me about a time when you wasted the time of someone else working on something that was unimportant to the organization, but important to you.",
     "whatToLook": ""
   },
   {
+    "id": 789,
     "competency": "Time management",
     "question": "Give me an example of a time that your priorities were changed quickly. What did you do? What was the result?",
     "whatToLook": ""
   },
   {
+    "id": 790,
     "competency": "Time management",
     "question": "By way of example, convince me that you can get more done in less time than others.",
     "whatToLook": ""
   },
   {
+    "id": 791,
     "competency": "Trust",
     "question": "Tell me about a time you mistrusted another employee, resulting in tension between the two of you. What did you do to improve the relationship? Where you successful in improving it?",
     "whatToLook": ""
   },
   {
+    "id": 792,
     "competency": "Trust",
     "question": "Give me an example of a time you failed to keep your boss informed of your actions or progress on a task or project.",
     "whatToLook": ""
   },
   {
+    "id": 793,
     "competency": "Trust",
     "question": "Give me an example of a time that you failed to walk-the-talk at work.",
     "whatToLook": ""
   },
   {
+    "id": 794,
     "competency": "Trust",
     "question": "Tell me about a time you had to give the benefit of the doubt to someone at work.",
     "whatToLook": ""
   },
   {
+    "id": 795,
     "competency": "Trust",
     "question": "Tell me about a time when your trustworthiness was challenged. How did you react/respond?",
     "whatToLook": ""
   },
   {
+    "id": 796,
     "competency": "Trust",
     "question": "Tell me how you have developed trust and loyalty between you and your direct reports.",
     "whatToLook": ""
   },
   {
+    "id": 797,
     "competency": "Trust",
     "question": "Describe a situation where you distrusted a coworker/supervisor, resulting in tension between you. What steps did you take to improve the relationship?",
     "whatToLook": ""
   },
   {
+    "id": 798,
     "competency": "Trust",
     "question": "Trust requires personal accountability. Tell me about a time when you chose to trust someone.",
     "whatToLook": ""
   },
   {
+    "id": 799,
     "competency": "Team spirit",
     "question": "Tell me about a time when you led a particularly successful collaborative effort.",
     "whatToLook": "Cover STAR and then ask for what was approach to communication, how did s/he gain commitment, what was the most difficult obstacle to overcome.  => cross functinal leadership, collaboration, communication, planning & organizing"
   },
   {
+    "id": 800,
     "competency": "Team spirit",
     "question": "Have you ever been in a group with an unproductive person? How did you handle it?",
     "whatToLook": ""
   },
   {
+    "id": 801,
     "competency": "Team spirit",
     "question": "Describe your style of contributing on your last team project. What did the team look to you for?",
     "whatToLook": ""
   },
   {
+    "id": 802,
     "competency": "Understanding Others",
     "question": "Give me an example to convince me that you understand why groups do what they do.",
     "whatToLook": ""
   },
   {
+    "id": 803,
     "competency": "Understanding Others",
     "question": "Tell me about a time you had to motivate a group of people.",
     "whatToLook": ""
   },
   {
+    "id": 804,
     "competency": "Understanding Others",
     "question": "Describe a time when your ability to pick up on the intentions or needs of a group resulted in you changing your course of action.",
     "whatToLook": ""
   },
   {
+    "id": 805,
     "competency": "Understanding Others",
     "question": "Tell me about a time where your understanding of what a group valued helped you work effectively with them.",
     "whatToLook": ""
   },
   {
+    "id": 806,
     "competency": "Understanding Others",
     "question": "Give me an example of a time when you were able to foresee an inappropriate course of action a team was moving and help steer them in the right direction.",
     "whatToLook": ""
   },
   {
+    "id": 807,
     "competency": "Understanding Others",
     "question": "Tell me about a time you gave someone or a group what they needed even though they didn't yet know it was needed.",
     "whatToLook": ""
   },
   {
+    "id": 808,
     "competency": "Vision and Purpose",
     "question": "Tell me about a time where your vision of the future was so inspiring that you were able to convert nay-sayers into followers.",
     "whatToLook": ""
   },
   {
+    "id": 809,
     "competency": "Vision and Purpose",
     "question": "Tell me about a time you lost track of the vision/mission/purpose of your team/department/organization and it turned out to have repercussions.",
     "whatToLook": ""
   },
   {
+    "id": 810,
     "competency": "Vision and Purpose",
     "question": "Describe a time you established a vision for your department/unit. What process was used? Were others involved in setting the vision and, if so, how? How did the vision contribute to the functionning of the department/unit?",
     "whatToLook": ""
   },
   {
+    "id": 811,
     "competency": "Vision and Purpose",
     "question": "Tell me about the relationship of your goals in your current position to the organization as a whole.",
     "whatToLook": ""
   },
   {
+    "id": 812,
     "competency": "Vision and Purpose",
     "question": "Tell me about a time when you anticipated the future and made changes to meet these future needs. Did the anticipated future occur?",
     "whatToLook": ""
   },
   {
+    "id": 813,
     "competency": "Working under Pressure or Stress",
     "question": "Did you ever make a risky decision? Why? How did you handle it?",
     "whatToLook": ""
   },
   {
+    "id": 814,
     "competency": "Working under Pressure or Stress",
     "question": "How did you handle meeting a tight deadline?",
     "whatToLook": ""
   },
   {
+    "id": 815,
     "competency": "Working under Pressure or Stress",
     "question": "Tell me about the most demanding boss you’ve worked for and how you handled them.",
     "whatToLook": ""
   },
   {
+    "id": 816,
     "competency": "Working under Pressure or Stress",
     "question": "Describe how you’ve completed projects and still maintained high quality.",
     "whatToLook": ""
   },
   {
+    "id": 817,
     "competency": "Working under Pressure or Stress",
     "question": "Give me an example of a time when you took on additional responsibility knowing your plate was already full, and what the outcome was",
     "whatToLook": ""
   },
   {
+    "id": 818,
     "competency": "Working under Pressure or Stress",
     "question": "Describe how you handle high-pressure situations with customers",
     "whatToLook": ""
