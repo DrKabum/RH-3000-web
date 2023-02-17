@@ -59,20 +59,11 @@ function App() {
   return (
     <div className='container'>
       <h1>HR 3000</h1>
-      <p>Select tags in the window below, and get your questionnaire</p>
+      <p className='subtitle'>
+        Select tags in the window below, and get your questionnaire
+      </p>
 
       <div className='main-container'>
-        <main className='main'>
-          {selectedTags &&
-            selectedTags.map((tag) => (
-              <QuestionContainer
-                tag={tag}
-                key={crypto.randomUUID()}
-                questions={getQuestions(tag)}
-              />
-            ))}
-        </main>
-
         <aside className='side'>
           {tags &&
             tags.map((tag) => (
@@ -84,6 +75,16 @@ function App() {
               />
             ))}
         </aside>
+        <main className='main'>
+          {selectedTags &&
+            selectedTags.map((tag) => (
+              <QuestionContainer
+                tag={tag}
+                key={crypto.randomUUID()}
+                questions={getQuestions(tag)}
+              />
+            ))}
+        </main>
       </div>
     </div>
   )
