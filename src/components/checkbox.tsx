@@ -15,9 +15,9 @@ export function CheckBox({ tag, remove, add }: CheckBoxProps) {
 
   return (
     <>
-      <label>
+      <label className='tag'>
         <input type='checkbox' checked={checked} onChange={handleCheck} />
-        {tag}
+        <span>{tag}</span>
       </label>
     </>
   )
