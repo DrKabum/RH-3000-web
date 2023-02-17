@@ -36,6 +36,8 @@ jobs:
         run: |
           cd dist
           echo > .nojekyll
+          git config --global user.email "{{ $GITHUB_ACTOR }}"
+          git config --global user.name "{{ $GITHUB_ACTOR }}"
           git init
           git checkout -B main
           git add -A
