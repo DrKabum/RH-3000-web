@@ -15,8 +15,25 @@ jobs:
         run: npm install
       - name: build
         run: npm run build
-      - name: upload artifacts
+      - name: upload artifact
         uses: actions/upload-artifact@v3
         with:
-          name: build_artifacts
+          name: build_artifact
           path: dist
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.output.page_url }}
+
+    steps:
+      - name: Deploy to GH pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+        with:
+          artifact_name: build_artifact
