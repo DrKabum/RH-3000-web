@@ -36,10 +36,10 @@ jobs:
         run: |
           cd dist
           echo > .nojekyll
-          git config --global user.email "{{ $GITHUB_ACTOR }}"
-          git config --global user.name "{{ $GITHUB_ACTOR }}"
+          git config --global user.email "$GITHUB_ACTOR"
+          git config --global user.name "$GITHUB_ACTOR"
           git init
           git checkout -B main
           git add -A
           git commit -m 'deploy'
-          git push -f git@github.com:{{ $GITHUB_REPOSITORY }}.git main:gh-pages
+          git push -f git@github.com:$GITHUB_REPOSITORY.git main:gh-pages
